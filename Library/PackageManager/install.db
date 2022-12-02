@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "27bfa56ccb82",
+        "mtime": 1667579968129,
+        "size": 257303620,
+        "localPath": "/home/faranbutt789/ARBOOK Project/Packages/com.ptc.vuforia.engine-10.10.2.tgz"
+      }
+    }
+  }
+}
