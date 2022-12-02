@@ -1,0 +1,1045 @@
+Unity Editor version:    2021.3.11f1 (0a5ca18544bf)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+System name:             Linux
+Distro version:          #58-Ubuntu SMP Thu Oct 13 08:03:55 UTC 2022
+Kernel version:          5.15.0-52-generic
+Architecture:            x86_64
+Available memory:        3827 MB
+Using pre-set license
+Pro License: YES
+
+(Unity:35084): Gdk-CRITICAL **: 21:59:46.963: gdk_window_get_cursor: assertion 'GDK_IS_WINDOW (window)' failed
+Desktop is 1366 x 768 @ 60 Hz
+Initialize udev device monitor.
+
+COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+/home/faranbutt789/ARBOOK Project
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+43017
+Successfully changed project path to: /home/faranbutt789/ARBOOK Project
+/home/faranbutt789/ARBOOK Project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 843.72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.11f1 (0a5ca18544bf)
+[Subsystems] Discovering subsystems at path /home/faranbutt789/Unity/Hub/Editor/2021.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/faranbutt789/ARBOOK Project/Assets
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_no_config_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_video_sync 
+Renderer: Mesa Intel(R) HD Graphics 4400 (HSW GT2)
+Vendor:   Intel
+Version:  4.6 (Core Profile) Mesa 22.0.5
+GLES:     0
+ GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_draw_buffers_blend GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buf
+fers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buf
+fer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotro
+pic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_ins
+tanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control
+ GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle -1216000512
+Initialize mono
+Mono path[0] = '/home/faranbutt789/Unity/Hub/Editor/2021.3.11f1/Editor/Data/Managed'
+Mono path[1] = '/home/faranbutt789/Unity/Hub/Editor/2021.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux'
+Mono config path = '/home/faranbutt789/Unity/Hub/Editor/2021.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56084
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/faranbutt789/Unity/Hub/Editor/2021.3.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /home/faranbutt789/Unity/Hub/Editor/2021.3.11f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.040855 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 698.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.343 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4346ms)
+		BeginReloadAssembly (279ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (4ms)
+		EndReloadAssembly (3357ms)
+			LoadAssemblies (273ms)
+			RebuildTransferFunctionScriptingTraits (1ms)
+			SetupTypeCache (670ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (227ms)
+			SetupLoadedEditorAssemblies (2162ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (408ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (699ms)
+				BeforeProcessingInitializeOnLoad (8ms)
+				ProcessInitializeOnLoadAttributes (777ms)
+				ProcessInitializeOnLoadMethodAttributes (267ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.054437 seconds.
+Android Extension - Scanning For ADB Devices 8599 ms
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/faranbutt789/ARBOOK Project/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /home/faranbutt789/ARBOOK Project/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 652.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at VuforiaEnabledObserver..cctor () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:130)
+
+(Filename: /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 130)
+
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.InitializeOnLoadVuforiaTaskRunner..cctor () [0x00015] in <94027d582a674310a19cbc0223b86958>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:130)
+
+(Filename: /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 130)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  9.912 seconds
+Domain Reload Profiling:
+	ReloadAssembly (9917ms)
+		BeginReloadAssembly (561ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (49ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (1ms)
+			CreateAndSetChildDomain (132ms)
+		EndReloadAssembly (8405ms)
+			LoadAssemblies (731ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (2578ms)
+			ReleaseScriptCaches (18ms)
+			RebuildScriptCaches (459ms)
+			SetupLoadedEditorAssemblies (4228ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (81ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (652ms)
+				BeforeProcessingInitializeOnLoad (787ms)
+				ProcessInitializeOnLoadAttributes (2518ms)
+				ProcessInitializeOnLoadMethodAttributes (153ms)
+				AfterProcessingInitializeOnLoad (34ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (20ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler after 0.05 seconds
+Refreshing native plugins compatible for Editor in 3.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4531 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 76 unused Assets / (86.7 KB). Loaded Objects now: 5308.
+Memory consumption went from 153.7 MB to 153.6 MB.
+Total: 26.634550 ms (FindLiveObjects: 1.232848 ms CreateObjectMapping: 1.196840 ms MarkObjects: 22.975261 ms  DeleteObjects: 1.225235 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 19624.613940 seconds.
+  path: Assets/Resources/VuforiaConfiguration.asset
+  artifactKey: Guid(24bd3b4a6c9d031ab988f66c23f4d665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/VuforiaConfiguration.asset using Guid(24bd3b4a6c9d031ab988f66c23f4d665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e11b6feaa23902c24d8b098be52d3504') in 0.178009 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4027.557628 seconds.
+  path: Assets/Scenes/BookScene.unity
+  artifactKey: Guid(7066fe8ac7c2b05c29d19d981f03951d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/BookScene.unity using Guid(7066fe8ac7c2b05c29d19d981f03951d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c231742a93dd9117e1ef630d7eaa00a') in 0.132792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 296.886595 seconds.
+  path: Assets/Resources/VuforiaConfiguration.asset
+  artifactKey: Guid(24bd3b4a6c9d031ab988f66c23f4d665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/VuforiaConfiguration.asset using Guid(24bd3b4a6c9d031ab988f66c23f4d665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db8e294f919a9d02040eb015d9a986a6') in 0.049522 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.072397 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/faranbutt789/ARBOOK Project/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /home/faranbutt789/ARBOOK Project/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 6.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at VuforiaEnabledObserver..cctor () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:130)
+
+(Filename: /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 130)
+
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.InitializeOnLoadVuforiaTaskRunner..cctor () [0x00015] in <94027d582a674310a19cbc0223b86958>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:130)
+
+(Filename: /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 130)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  8.356 seconds
+Domain Reload Profiling:
+	ReloadAssembly (8358ms)
+		BeginReloadAssembly (1758ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (41ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (1ms)
+			CreateAndSetChildDomain (351ms)
+		EndReloadAssembly (5835ms)
+			LoadAssemblies (1649ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1521ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (209ms)
+			SetupLoadedEditorAssemblies (2873ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (143ms)
+				SetLoadedEditorAssemblies (4ms)
+				RefreshPlugins (7ms)
+				BeforeProcessingInitializeOnLoad (448ms)
+				ProcessInitializeOnLoadAttributes (2022ms)
+				ProcessInitializeOnLoadMethodAttributes (195ms)
+				AfterProcessingInitializeOnLoad (52ms)
+				EditorAssembliesLoaded (2ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (25ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 25.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4496 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 67 unused Assets / (84.4 KB). Loaded Objects now: 5313.
+Memory consumption went from 151.7 MB to 151.7 MB.
+Total: 15.959164 ms (FindLiveObjects: 1.140169 ms CreateObjectMapping: 0.658827 ms MarkObjects: 13.029397 ms  DeleteObjects: 1.125440 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 426.666636 seconds.
+  path: Assets/Editor/Vuforia/ImageTargetTextures/ARBOOKDATABASE/AEROPLANE_scaled.jpg
+  artifactKey: Guid(e4da9c3a30cc428cb9efd48046909d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/Vuforia/ImageTargetTextures/ARBOOKDATABASE/AEROPLANE_scaled.jpg using Guid(e4da9c3a30cc428cb9efd48046909d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a11e1819b1d9df444ffcb19c9e32b484') in 1.338276 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Editor/Vuforia/ImageTargetTextures/ARBOOKDATABASE/ARBOOK_scaled.jpg
+  artifactKey: Guid(0cbf90df7fb74ac2b11b8aa58e4ece42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/Vuforia/ImageTargetTextures/ARBOOKDATABASE/ARBOOK_scaled.jpg using Guid(0cbf90df7fb74ac2b11b8aa58e4ece42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e47a05c8db363f48921383586c6d3ed') in 0.324805 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Editor/Vuforia/ImageTargetTextures/ARBOOKDATABASE/SUN_scaled.jpg
+  artifactKey: Guid(701d49b3226540ab8ac6eadbb8a7554d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/Vuforia/ImageTargetTextures/ARBOOKDATABASE/SUN_scaled.jpg using Guid(701d49b3226540ab8ac6eadbb8a7554d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fcb6c6b698bc652e943aacba0e200f2') in 0.109002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Editor/Vuforia/ImageTargetTextures/ARBOOKDATABASE
+  artifactKey: Guid(10c9c37ac7dc66d8899bcbc5af8ec20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/Vuforia/ImageTargetTextures/ARBOOKDATABASE using Guid(10c9c37ac7dc66d8899bcbc5af8ec20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58fb85bfbf4e299b7736ab961b6c0b4f') in 0.029685 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Editor/Vuforia/ImageTargetTextures/ARBOOKDATABASE/CAR_scaled.jpg
+  artifactKey: Guid(fe28840ae7824ba4b71f74392adadaf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/Vuforia/ImageTargetTextures/ARBOOKDATABASE/CAR_scaled.jpg using Guid(fe28840ae7824ba4b71f74392adadaf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6dfbf9921590351e8361c13cf57b7b3') in 0.201766 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Editor/Vuforia/ImageTargetTextures/ARBOOKDATABASE/SHIP_scaled.jpg
+  artifactKey: Guid(38a932160d1b481a984e327e701d6f1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/Vuforia/ImageTargetTextures/ARBOOKDATABASE/SHIP_scaled.jpg using Guid(38a932160d1b481a984e327e701d6f1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40038899d9088d2aed316f1391d19e4f') in 0.040487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Editor/Vuforia/ImageTargetTextures/ARBOOKDATABASE/FOREST_scaled.jpg
+  artifactKey: Guid(b995ab2a93564ace81559b075b465879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/Vuforia/ImageTargetTextures/ARBOOKDATABASE/FOREST_scaled.jpg using Guid(b995ab2a93564ace81559b075b465879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2048cde337efca09dc621cc54bf96aa') in 0.119800 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.604687 seconds.
+  path: Packages/com.ptc.vuforia.engine/package.json
+  artifactKey: Guid(c0e3d889c2a8e4409a9be4e7899d2b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/package.json using Guid(c0e3d889c2a8e4409a9be4e7899d2b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85f6ba1847f4a78f197cb0c958e3d6ad') in 0.018606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Packages/com.ptc.vuforia.engine/readme-add-package-via-git-url-reference-image.png
+  artifactKey: Guid(750cc6e77aa924340bf2262e41b7b3b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/readme-add-package-via-git-url-reference-image.png using Guid(750cc6e77aa924340bf2262e41b7b3b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e35894436d9902c1cad5c79b7922e71') in 0.149955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 76.483046 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Prefabs/AreaTargetCapture.prefab
+  artifactKey: Guid(98c06fa2b3f3843b98712aa03b5142ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Prefabs/AreaTargetCapture.prefab using Guid(98c06fa2b3f3843b98712aa03b5142ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd423c0c50645d7c6492a18fe900166ad') in 0.620680 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Prefabs/DefaultPlaneIndicator.prefab
+  artifactKey: Guid(b9ed12c68682d5b49bfa70ee9d71602d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Prefabs/DefaultPlaneIndicator.prefab using Guid(b9ed12c68682d5b49bfa70ee9d71602d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '115e8054868f38eb872be96f161b82b2') in 2.006913 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Prefabs/MidAirReference.prefab
+  artifactKey: Guid(e9dc61a799fb66b4f830683886a6d761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Prefabs/MidAirReference.prefab using Guid(e9dc61a799fb66b4f830683886a6d761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a711039c310a291c804777730ca52e') in 0.385117 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Prefabs/GroundPlaneReference.prefab
+  artifactKey: Guid(cf19ace87b12c2741979b9582691d60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Prefabs/GroundPlaneReference.prefab using Guid(cf19ace87b12c2741979b9582691d60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c555043e1e7e0227cceee5a0892e077e') in 0.551572 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Prefabs/SessionRecorder.prefab
+  artifactKey: Guid(8ce5dfe4cb6b24642b68cb2125a3004e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Prefabs/SessionRecorder.prefab using Guid(8ce5dfe4cb6b24642b68cb2125a3004e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06168e121a33fabdbd905a14b652f349') in 0.141889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Prefabs/DefaultMidAirIndicator.prefab
+  artifactKey: Guid(e5581564ca4d5f2479d5f1694371ef2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Prefabs/DefaultMidAirIndicator.prefab using Guid(e5581564ca4d5f2479d5f1694371ef2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c93faf7409935f22ee7c9856f53a1c3') in 2.928340 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.593256 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Shaders/VuforiaVB_RGB.cginc
+  artifactKey: Guid(2ad47d0e0862d6148a08774c4e401811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Shaders/VuforiaVB_RGB.cginc using Guid(2ad47d0e0862d6148a08774c4e401811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcbbf92727694f4f346bec07a4d9b0d4') in 0.057744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.036535 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Shaders/VuforiaVB_YUV420P_YUVYV12.cginc
+  artifactKey: Guid(855135751abe3d04089dd309d8977df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Shaders/VuforiaVB_YUV420P_YUVYV12.cginc using Guid(855135751abe3d04089dd309d8977df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f28e9bfc059bd534b4aa257314efa630') in 0.062141 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Shaders/VuforiaVB_YUVNV12_YUVNV21.cginc
+  artifactKey: Guid(43f394421858c3842a9d73b264c80b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Shaders/VuforiaVB_YUVNV12_YUVNV21.cginc using Guid(43f394421858c3842a9d73b264c80b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff1504c796df7292c8cf8bb62389ce1') in 0.008693 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Shaders/VuforiaVideoBackground.cginc
+  artifactKey: Guid(b45a2e38fc69fd440b7fa56ebfb18dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Shaders/VuforiaVideoBackground.cginc using Guid(b45a2e38fc69fd440b7fa56ebfb18dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1dabbe08842847b7d57488fb6a1ba07') in 0.016146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 226.165855 seconds.
+  path: Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab
+  artifactKey: Guid(c116b7497ab8ca34c9188965d4295e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.legacyinputhelpers/Prefabs/XRRig.prefab using Guid(c116b7497ab8ca34c9188965d4295e27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd8b0f8b96e19841b97bd32b36257d9') in 0.041438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 424.442246 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.037690 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.871367 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(30851c19cfffde622a6d80aa7762b50d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(30851c19cfffde622a6d80aa7762b50d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f507a3b3835753fe9fb783bed5d82a51') in 0.032625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.563516 seconds.
+  path: Assets/Materials/New Material.mat
+  artifactKey: Guid(e7cdd405e42f7a9d69ae93c4c3e35312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/New Material.mat using Guid(e7cdd405e42f7a9d69ae93c4c3e35312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef7dacdc974337283dff5f0a164e0dee') in 1.256227 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 35.656341 seconds.
+  path: Assets/Materials/SunMaterial.mat
+  artifactKey: Guid(e7cdd405e42f7a9d69ae93c4c3e35312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SunMaterial.mat using Guid(e7cdd405e42f7a9d69ae93c4c3e35312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb5f8171580927b021996add77469840') in 0.051704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 48.714836 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/CloudRecoTarget.mat
+  artifactKey: Guid(de1593a16346ab045974f1cd34fd831f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/CloudRecoTarget.mat using Guid(de1593a16346ab045974f1cd34fd831f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fdd8ab0f6f7257884d7efce88c26182') in 0.301992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/MidAirReference.mat
+  artifactKey: Guid(2e9b38b0a13ba442b98571aeeb6f3849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/MidAirReference.mat using Guid(2e9b38b0a13ba442b98571aeeb6f3849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '957b101189e16cfe295191fbece26730') in 0.340154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/StandardCutout.mat
+  artifactKey: Guid(a9267223436693a4bb8e35161a24f8ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/StandardCutout.mat using Guid(a9267223436693a4bb8e35161a24f8ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a745ec12b7c3510b5ea1c4e664944b3f') in 1.490842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/MidAirIndicator.mat
+  artifactKey: Guid(658ef14483bb4437baeced0fce0ae78a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/MidAirIndicator.mat using Guid(658ef14483bb4437baeced0fce0ae78a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f15ebab75ed7d9149908fc72b1a8775a') in 0.035885 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/DepthMask.mat
+  artifactKey: Guid(36b1f386c1720c94889ac11ac9c8c6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/DepthMask.mat using Guid(36b1f386c1720c94889ac11ac9c8c6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd806894f228cb3c3d06e0ed8f38f9610') in 0.243367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Packages/com.unity.xr.arfoundation/Materials/DebugPlane.mat
+  artifactKey: Guid(f1a110d32af21aa4d872c707dfcc6043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arfoundation/Materials/DebugPlane.mat using Guid(f1a110d32af21aa4d872c707dfcc6043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ab38909529d7642ce4876028bf1293b') in 0.824412 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/ColoredLines.mat
+  artifactKey: Guid(bdaddec689357db4ea505c9f4c1b3a10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/ColoredLines.mat using Guid(bdaddec689357db4ea505c9f4c1b3a10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3f5ab42e7d7c21640795d132b35fce2') in 0.285701 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/OutlineOpaque.mat
+  artifactKey: Guid(1d25c0ce72e58124fa2d482e07c9fcd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/OutlineOpaque.mat using Guid(1d25c0ce72e58124fa2d482e07c9fcd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e295f0e3447b0fb4ff5dc221fb9619d8') in 0.656882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/DefaultTarget.mat
+  artifactKey: Guid(30b97d537113d0441889f1559f555128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/DefaultTarget.mat using Guid(30b97d537113d0441889f1559f555128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f01c6ae5d183b76f6e834234ddb6091d') in 0.038563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/VirtualButtonPreviewMaterial.mat
+  artifactKey: Guid(a88c225b69241164ab829bccf61d8845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/VirtualButtonPreviewMaterial.mat using Guid(a88c225b69241164ab829bccf61d8845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9d66b77f15f9b86dcae7aab2f32b5e') in 0.876689 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Packages/com.unity.xr.arfoundation/Materials/DebugFace.mat
+  artifactKey: Guid(35bd980c8f2234e3d8b640e25a677d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arfoundation/Materials/DebugFace.mat using Guid(35bd980c8f2234e3d8b640e25a677d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a84a6437d28ae3eca253d56df2027f59') in 0.527416 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/GroundPlaneIndicator.mat
+  artifactKey: Guid(1d214ea2059394d59a1960df0cad1c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/GroundPlaneIndicator.mat using Guid(1d214ea2059394d59a1960df0cad1c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '506e3d01762198fa83429a1bab8d1517') in 0.264040 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/GroundPlaneReference.mat
+  artifactKey: Guid(b0fca12d4e61246cfa5f9a6d26e48004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/GroundPlaneReference.mat using Guid(b0fca12d4e61246cfa5f9a6d26e48004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce3f1c19e8a1cf30467ef613abb84724') in 0.329505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/GuideView2D.mat
+  artifactKey: Guid(ab44b980790e31f4c84c4c91cdab449a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/GuideView2D.mat using Guid(ab44b980790e31f4c84c4c91cdab449a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e514bbe3859de6c8824abb86616ec339') in 0.074690 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Materials/MeshVisualization.mat
+  artifactKey: Guid(1759a6bc3cabc49c188d82d99a770e17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Materials/MeshVisualization.mat using Guid(1759a6bc3cabc49c188d82d99a770e17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4478e109be06cc0be79df25bf473eaa5') in 0.453882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 293.296029 seconds.
+  path: Packages/com.unity.inputsystem/package.json
+  artifactKey: Guid(f0e14ea80f96b445f97b1c83650d5733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/package.json using Guid(f0e14ea80f96b445f97b1c83650d5733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0cd3926ff4c4839be022a864d48a841') in 0.043077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 69.084990 seconds.
+  path: Assets/XR/XRGeneralSettings.asset
+  artifactKey: Guid(df5906fa81df64ee284ae355ad45317b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/XRGeneralSettings.asset using Guid(df5906fa81df64ee284ae355ad45317b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74349708a27cabed2543307dc8e53cb3') in 0.132735 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/XR/Loaders/AR Kit Loader.asset
+  artifactKey: Guid(e1d130b2c48dfe195b0a212f4152ff4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Loaders/AR Kit Loader.asset using Guid(e1d130b2c48dfe195b0a212f4152ff4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f920015ecc1082088f5482ca82330814') in 0.074528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/XR/Loaders/AR Core Loader.asset
+  artifactKey: Guid(504a710e7721a20e5b3667029bfdc8e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Loaders/AR Core Loader.asset using Guid(504a710e7721a20e5b3667029bfdc8e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a85281f24fdc969fa93ed6cfa9092363') in 0.060867 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/XR/Settings/AR Core Settings.asset
+  artifactKey: Guid(3191b2c0d732328e8b7336b6888deb83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Settings/AR Core Settings.asset using Guid(3191b2c0d732328e8b7336b6888deb83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '968c2144116dd8c17f3e26b8493fd69e') in 0.007986 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/XR/Settings/AR Kit Settings.asset
+  artifactKey: Guid(9d1992eed1ae72e8594d9a2ec6556872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Settings/AR Kit Settings.asset using Guid(9d1992eed1ae72e8594d9a2ec6556872) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a29884f81eb8f778e2908531cfac2c81') in 0.022049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/XR/Settings/Magic Leap Settings.asset
+  artifactKey: Guid(5303e908e3137c768a0cf119c5971758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Settings/Magic Leap Settings.asset using Guid(5303e908e3137c768a0cf119c5971758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '522cdc8a29978fa054e33ff0fe9744e6') in 0.019094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/XR/Settings/OpenXR Package Settings.asset
+  artifactKey: Guid(eecad458a12a8a5dba0c650ce63e474d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Settings/OpenXR Package Settings.asset using Guid(eecad458a12a8a5dba0c650ce63e474d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc3a26eba53aa04495c7b9025617f858') in 0.109137 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/XR/Loaders/Open XR Loader.asset
+  artifactKey: Guid(31b4c5751e6f4ef1f9baa92af499b878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Loaders/Open XR Loader.asset using Guid(31b4c5751e6f4ef1f9baa92af499b878) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91836bbaa97973f3eaad502f6243dfc3') in 0.024293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 916.335063 seconds.
+  path: Assets/New Material.mat
+  artifactKey: Guid(98395fbcd19c7098bab0a274fa977b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material.mat using Guid(98395fbcd19c7098bab0a274fa977b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e81fe5f4f60870956aa49d107d9903b') in 0.054812 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.606405 seconds.
+  path: Assets/Materials/SunSurface.mat
+  artifactKey: Guid(98395fbcd19c7098bab0a274fa977b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SunSurface.mat using Guid(98395fbcd19c7098bab0a274fa977b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '824080e366aebf337a2f63cc0d0f3137') in 0.064783 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.074703 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/faranbutt789/ARBOOK Project/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /home/faranbutt789/ARBOOK Project/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1174.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at VuforiaEnabledObserver..cctor () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:130)
+
+(Filename: /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 130)
+
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.InitializeOnLoadVuforiaTaskRunner..cctor () [0x00015] in <94027d582a674310a19cbc0223b86958>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:130)
+
+(Filename: /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 130)
+
+Mono: successfully reloaded assembly
+- Completed reload, in 131.785 seconds
+Domain Reload Profiling:
+	ReloadAssembly (132117ms)
+		BeginReloadAssembly (89918ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2891ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (61357ms)
+		EndReloadAssembly (39813ms)
+			LoadAssemblies (22389ms)
+			RebuildTransferFunctionScriptingTraits (65ms)
+			SetupTypeCache (20428ms)
+			ReleaseScriptCaches (59ms)
+			RebuildScriptCaches (526ms)
+			SetupLoadedEditorAssemblies (10041ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (291ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (1175ms)
+				BeforeProcessingInitializeOnLoad (1162ms)
+				ProcessInitializeOnLoadAttributes (5591ms)
+				ProcessInitializeOnLoadMethodAttributes (1786ms)
+				AfterProcessingInitializeOnLoad (32ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (330ms)
+Platform modules already initialized, skipping
+Script is not up to date after domain reload: guid(442c24ca7e1a877449477a4154f887f8) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/PostProcessEffectRendererExtensions.cs") state(2)
+Script is not up to date after domain reload: guid(c235f7d2e7a5d3847b50e73fccc74bab) path("Packages/com.unity.postprocessing/Tests/Editor/PostProcessEditorTests.cs") state(2)
+Script is not up to date after domain reload: guid(75be0b76c5da33a41a2e679cfb7f453c) path("Packages/com.unity.postprocessing/PostProcessing/Editor/PostProcessDebugEditor.cs") state(2)
+Script is not up to date after domain reload: guid(eff4db1c9252e5247b661dec568df962) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Utils/GlobalSettings.cs") state(2)
+Script is not up to date after domain reload: guid(44788f6e7bbf9174181bfe4689e66131) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Attributes/TrackballAttribute.cs") state(2)
+Script is not up to date after domain reload: guid(4da61023839a0604d834e6ffde67ad52) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/PropertySheet.cs") state(2)
+Script is not up to date after domain reload: guid(de3d46fc4bda066408aeba6fb8e44d6a) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/MotionBlurEditor.cs") state(2)
+Script is not up to date after domain reload: guid(f8e5f5614c0d72445b292f4b16ab660b) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/ChromaticAberrationEditor.cs") state(2)
+Script is not up to date after domain reload: guid(4d506bd5da20d0248bfa343c6693d655) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Tools/CubeLutAssetFactory.cs") state(2)
+Script is not up to date after domain reload: guid(6050e2d5de785ce4d931e4dbdbf2d755) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/ChromaticAberration.cs") state(2)
+Script is not up to date after domain reload: guid(322fbe1dae0fe4a4e9645768b3944aae) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Monitors/LightMeterMonitor.cs") state(2)
+Script is not up to date after domain reload: guid(e81ec1796a6c9844f9ab3847494d7911) path("Packages/com.unity.postprocessing/PostProcessing/Editor/PostProcessEffectEditor.cs") state(2)
+Script is not up to date after domain reload: guid(4b0cd5ddb61a56b4f86ea0fd0a102fe7) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/DefaultPostProcessEffectEditor.cs") state(2)
+Script is not up to date after domain reload: guid(0f3902e2aa2609f47ab0c956e56ea0bf) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Tools/VolumeFactory.cs") state(2)
+Script is not up to date after domain reload: guid(912e288507f1e724492c7c721fa1deb8) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Attributes/DisplayNameAttribute.cs") state(2)
+Script is not up to date after domain reload: guid(c387aa7210e2f324b85febd7211d6c9f) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/XRSettings.cs") state(2)
+Script is not up to date after domain reload: guid(09e002b759745fa499d539b9021af38e) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Utils/EditorUtilities.cs") state(2)
+Script is not up to date after domain reload: guid(ce0f0631fee52da41884853337cab99d) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Utils/CurveEditor.cs") state(2)
+Script is not up to date after domain reload: guid(79092fbfc2fc7394aa0754682e3089f7) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessBundle.cs") state(2)
+Script is not up to date after domain reload: guid(21c950a797aa518438786fc341790e14) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Tools/DefineSetter.cs") state(2)
+Script is not up to date after domain reload: guid(5d05ae29f423ce241b6cddfe46280b4c) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Monitors/Monitor.cs") state(2)
+Script is not up to date after domain reload: guid(d4351734f8a0aaa42a51a99db92e92e2) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Tools/ResourceAssetFactory.cs") state(2)
+Script is not up to date after domain reload: guid(75066207954ccc44aa9d134af49040de) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/Dithering.cs") state(2)
+Script is not up to date after domain reload: guid(b94fcd11afffcb142908bfcb1e261fba) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/MotionBlur.cs") state(2)
+Script is not up to date after domain reload: guid(4b42fa3a7c4baed49bb4f6a56dadc03f) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/MeshUtilities.cs") state(2)
+Script is not up to date after domain reload: guid(1d2cae9d8c54de04fab072666ddd1e57) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Attributes/MinMaxAttribute.cs") state(2)
+Script is not up to date after domain reload: guid(8b9a305e18de0c04dbd257a21cd47087) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessVolume.cs") state(2)
+Script is not up to date after domain reload: guid(9753335d6f48da542be1c720aa07bbf5) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Attributes/DecoratorAttribute.cs") state(2)
+Script is not up to date after domain reload: guid(30f4b897495c7ad40b2d47143e02aaba) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessResources.cs") state(2)
+Script is not up to date after domain reload: guid(a4b23776a3150a74ea5ad6271a3d8f15) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/LogHistogram.cs") state(2)
+Script is not up to date after domain reload: guid(556797029e73b2347956b6579e77e05b) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/DepthOfField.cs") state(2)
+Script is not up to date after domain reload: guid(4e487364a0cd33f4a9ef2ed93819d4d7) path("Packages/com.unity.postprocessing/PostProcessing/Editor/PostProcessVolumeEditor.cs") state(2)
+Script is not up to date after domain reload: guid(c564cc69bd8582a48b2e0a2090d28361) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/ScalableAO.cs") state(2)
+Script is not up to date after domain reload: guid(3e4b5d9a1abab984cbe0cbdb31fca939) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Tools/CubeLutAssetImporter.cs") state(2)
+Script is not up to date after domain reload: guid(599b4e72f6c212d40819cfde14826671) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/HableCurve.cs") state(2)
+Script is not up to date after domain reload: guid(18ff20fea2d39cf428e31d3e75b4ae79) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessManager.cs") state(2)
+Script is not up to date after domain reload: guid(d798d5719bf3b434eafb013385f872eb) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/ScreenSpaceReflectionsEditor.cs") state(2)
+Script is not up to date after domain reload: guid(26ed99f46b86df8449003e6ec0f65144) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Decorators/TrackballDecorator.cs") state(2)
+Script is not up to date after domain reload: guid(67909952e72978b4ea41880509c936ff) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/AmbientOcclusionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(279b45d82a92b4d4fa0b30d03486fa68) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Monitors/VectorscopeMonitor.cs") state(2)
+Script is not up to date after domain reload: guid(adb84e30e02715445aeb9959894e3b4d) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/ColorGrading.cs") state(2)
+Script is not up to date after domain reload: guid(f8baf5b99881c054d90afcd1dffd11eb) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/TextureFormatUtilities.cs") state(2)
+Script is not up to date after domain reload: guid(9b77c5407dc277943b591ade9e6b18c5) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/LensDistortion.cs") state(2)
+Script is not up to date after domain reload: guid(69a4fc27499557744827c787d71fdf08) path("Packages/com.unity.postprocessing/PostProcessing/Editor/BaseEditor.cs") state(2)
+Script is not up to date after domain reload: guid(ac5668592895c1742a0c6e9d111f870b) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Tools/ProfileFactory.cs") state(2)
+Script is not up to date after domain reload: guid(d65e486e4de6e5448a8fbb43dc8756a0) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/Grain.cs") state(2)
+Script is not up to date after domain reload: guid(63007e9c3f71cad46a59f223a8b32d46) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Attributes/MinAttribute.cs") state(2)
+Script is not up to date after domain reload: guid(d82acb873f357d046901f9e9f888911a) path("Packages/com.unity.postprocessing/Tests/Runtime/PostProcessingRuntimeTests.cs") state(2)
+Script is not up to date after domain reload: guid(f79c8927d684af6499f512361e23bace) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/ColorGradingEditor.cs") state(2)
+Script is not up to date after domain reload: guid(e034505fdac568a45af53ec1cdb0fbb3) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/PropertySheetFactory.cs") state(2)
+Script is not up to date after domain reload: guid(bc5d8aaf03e613843a0ecaff18e0dfbd) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/ParameterOverride.cs") state(2)
+Script is not up to date after domain reload: guid(b7733f6a6fd11474e8fc598901f90fab) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessRenderContext.cs") state(2)
+Script is not up to date after domain reload: guid(28cff9aae95df994e98129a9b35627de) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Attributes/PostProcessAttribute.cs") state(2)
+Script is not up to date after domain reload: guid(948f4100a11a5c24981795d21301da5c) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessLayer.cs") state(2)
+Script is not up to date after domain reload: guid(3051d2fb25301fa4a81e797109712feb) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/AutoExposureEditor.cs") state(2)
+Script is not up to date after domain reload: guid(e4026acd2810a474b9be96bbeb80b959) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/ShaderIDs.cs") state(2)
+Script is not up to date after domain reload: guid(f48a0d4b798943a448e8d2e5d891133c) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Utils/SerializedParameterOverride.cs") state(2)
+Script is not up to date after domain reload: guid(5a7e5d36c781f1a469ea8f981b785506) path("Packages/com.unity.postprocessing/PostProcessing/Editor/PostProcessEffectBaseEditor.cs") state(2)
+Script is not up to date after domain reload: guid(62e2b920ea5fcaa4982e7fc50bf690a8) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/Fog.cs") state(2)
+Script is not up to date after domain reload: guid(b3f6f3f7c722b4544b97e3c75840aa33) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/AutoExposure.cs") state(2)
+Script is not up to date after domain reload: guid(47feae56b7bdcf4499b96c2aa3c6ce07) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/BloomEditor.cs") state(2)
+Script is not up to date after domain reload: guid(48a79b01ea5641d4aa6daa2e23605641) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/Bloom.cs") state(2)
+Script is not up to date after domain reload: guid(c3c112f1ddeedfe45839158cc4b148d4) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/ColorUtilities.cs") state(2)
+Script is not up to date after domain reload: guid(d6ae47710b8593e41960a944bb29e6c3) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Decorators/Decorators.cs") state(2)
+Script is not up to date after domain reload: guid(c687cf9a3e8607a4b991e6d445a2f9bf) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/Spline.cs") state(2)
+Script is not up to date after domain reload: guid(2df5c9d441da8704c8eab449a2f79d85) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessEffectSettings.cs") state(2)
+Script is not up to date after domain reload: guid(3ae5839b763bada47af0cca23c360452) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/TargetPool.cs") state(2)
+Script is not up to date after domain reload: guid(efd3e892ff9d0b94c94e039ad5619e5d) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/FastApproximateAntialiasing.cs") state(2)
+Script is not up to date after domain reload: guid(f59da4cf1b7dee244bc37fa6add23b00) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/MultiScaleVO.cs") state(2)
+Script is not up to date after domain reload: guid(7a34fa72bd4185749832024e9c8010bf) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/ScreenSpaceReflections.cs") state(2)
+Script is not up to date after domain reload: guid(c1cb7e9e120078f43bce4f0b1be547a7) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/AmbientOcclusion.cs") state(2)
+Script is not up to date after domain reload: guid(a2ed510c13db63f4ea5749ef503a99b5) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/RuntimeUtilities.cs") state(2)
+Script is not up to date after domain reload: guid(2c89984c2a3e6cd4492c6f695f07bae6) path("Packages/com.unity.postprocessing/PostProcessing/Editor/PostProcessLayerEditor.cs") state(2)
+Script is not up to date after domain reload: guid(70ea2ab329ffbac43a0a02daa61dbe6b) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Attributes/PostProcessEditorAttribute.cs") state(2)
+Script is not up to date after domain reload: guid(e4732e1210a3d39459db8b431f866659) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessEvent.cs") state(2)
+Script is not up to date after domain reload: guid(40b924e2dad56384a8df2a1e111bb675) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/Vignette.cs") state(2)
+Script is not up to date after domain reload: guid(7758395f983044344b2c8ea743e956c3) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/LensDistortionEditor.cs") state(2)
+Script is not up to date after domain reload: guid(6b2666165a17bbd4e851c1382898651e) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Decorators/AttributeDecorator.cs") state(2)
+Script is not up to date after domain reload: guid(1fcb2f1e4a7d9ba42bc5940a5611f302) path("Packages/com.unity.postprocessing/PostProcessing/Editor/PostProcessProfileEditor.cs") state(2)
+Script is not up to date after domain reload: guid(eb4c0b518e013c8418135b3bd8a91b6c) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/DepthOfFieldEditor.cs") state(2)
+Script is not up to date after domain reload: guid(3869d037332a74744a54736f00d62763) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/VignetteEditor.cs") state(2)
+Script is not up to date after domain reload: guid(d579562c49280d84cb532cd67d19da5d) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Monitors/WaveformMonitor.cs") state(2)
+Script is not up to date after domain reload: guid(f85e8d04208ed5145a521dd27d174830) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/TextureLerper.cs") state(2)
+Script is not up to date after domain reload: guid(cce62646e6d421c41b0aa1c300fcd0fe) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Monitors/HistogramMonitor.cs") state(2)
+Script is not up to date after domain reload: guid(9f9fffe306f3969418c31ee836b6ffee) path("Packages/com.unity.postprocessing/PostProcessing/Editor/EffectListEditor.cs") state(2)
+Script is not up to date after domain reload: guid(c884467f149574e44b21c869b7fc3401) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Utils/Styling.cs") state(2)
+Script is not up to date after domain reload: guid(314a03e1d67d9fb4b85926a765017e02) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessDebugLayer.cs") state(2)
+Script is not up to date after domain reload: guid(5a7fc26078c70a6469392d9775f433be) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/TemporalAntialiasing.cs") state(2)
+Script is not up to date after domain reload: guid(8e6292b2c06870d4495f009f912b9600) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessProfile.cs") state(2)
+Script is not up to date after domain reload: guid(c520d478f3d2445429bd7ac9c92b03a3) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessDebug.cs") state(2)
+Script is not up to date after domain reload: guid(8c72b20f77adb59439f8eed4f25a950a) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Attributes/MaxAttribute.cs") state(2)
+Script is not up to date after domain reload: guid(5cfe6169b379ff84eb9796502a1a144d) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessEffectRenderer.cs") state(2)
+Script is not up to date after domain reload: guid(f3b0ecb61e2f1e54ebd4572178bfd8b1) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/SubpixelMorphologicalAntialiasing.cs") state(2)
+Script is not up to date after domain reload: guid(616483d5bdbf13c43ae1b005134b8c11) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/HaltonSeq.cs") state(2)
+Refreshing native plugins compatible for Editor in 331.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6029 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 90 unused Assets / (1.6 MB). Loaded Objects now: 6877.
+Memory consumption went from 202.0 MB to 200.4 MB.
+Total: 472.519395 ms (FindLiveObjects: 1.943930 ms CreateObjectMapping: 2.348580 ms MarkObjects: 368.561868 ms  DeleteObjects: 68.610116 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.052027 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/faranbutt789/ARBOOK Project/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /home/faranbutt789/ARBOOK Project/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 5.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at VuforiaEnabledObserver..cctor () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:130)
+
+(Filename: /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 130)
+
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.InitializeOnLoadVuforiaTaskRunner..cctor () [0x00015] in <94027d582a674310a19cbc0223b86958>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:130)
+
+(Filename: /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 130)
+
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Mono: successfully reloaded assembly
+- Completed reload, in 11.059 seconds
+Domain Reload Profiling:
+	ReloadAssembly (11062ms)
+		BeginReloadAssembly (1124ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (37ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (1ms)
+			CreateAndSetChildDomain (262ms)
+		EndReloadAssembly (9131ms)
+			LoadAssemblies (1259ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (2570ms)
+			ReleaseScriptCaches (9ms)
+			RebuildScriptCaches (601ms)
+			SetupLoadedEditorAssemblies (4546ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (127ms)
+				SetLoadedEditorAssemblies (5ms)
+				RefreshPlugins (6ms)
+				BeforeProcessingInitializeOnLoad (900ms)
+				ProcessInitializeOnLoadAttributes (2896ms)
+				ProcessInitializeOnLoadMethodAttributes (579ms)
+				AfterProcessingInitializeOnLoad (31ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 35.13 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6162 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 128 unused Assets / (3.1 MB). Loaded Objects now: 6975.
+Memory consumption went from 210.6 MB to 207.5 MB.
+Total: 32.148245 ms (FindLiveObjects: 2.071320 ms CreateObjectMapping: 2.157118 ms MarkObjects: 20.600160 ms  DeleteObjects: 7.311745 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2259.345761 seconds.
+  path: Packages/com.unity.visualeffectgraph/Meshes/Hexagon.mesh
+  artifactKey: Guid(5813e7dad85d21748a1abefe92420737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Meshes/Hexagon.mesh using Guid(5813e7dad85d21748a1abefe92420737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab198051bf707cf2cffd26d0d2a6dffd') in 1.574410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Packages/com.unity.visualeffectgraph/Meshes/Octagon.mesh
+  artifactKey: Guid(71ccc660ddd123e478c0655a1cc5e6df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Meshes/Octagon.mesh using Guid(71ccc660ddd123e478c0655a1cc5e6df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db97fc6e8ab296cc4cb3a8c932b53e0f') in 0.105717 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Packages/com.unity.visualeffectgraph/Unity.VisualEffectGraph.Runtime.asmdef
+  artifactKey: Guid(d04eb9c554ad44ceab303cecf0c0cf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Unity.VisualEffectGraph.Runtime.asmdef using Guid(d04eb9c554ad44ceab303cecf0c0cf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69e8a629c87cfcf28c8cf8802d1a209a') in 0.003391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Packages/com.unity.visualeffectgraph/Meshes/Triangle.mesh
+  artifactKey: Guid(f4d22fb77437608439f0bac189718c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Meshes/Triangle.mesh using Guid(f4d22fb77437608439f0bac189718c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '961da29373341dd2f7f4c558fb0219f1') in 0.077679 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Packages/com.unity.visualeffectgraph/package.json
+  artifactKey: Guid(6f8f5c087a5cb4bd19c1e4898d57e453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/package.json using Guid(6f8f5c087a5cb4bd19c1e4898d57e453) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da455df771b690979508796d59867634') in 0.026896 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029999 seconds.
+  path: Packages/com.unity.visualeffectgraph/Editor/Unity.VisualEffectGraph.Editor.asmdef
+  artifactKey: Guid(116a4d4dbf5c04973bbf517077a062a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Editor/Unity.VisualEffectGraph.Editor.asmdef using Guid(116a4d4dbf5c04973bbf517077a062a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '058806c0865dbbbaa31041d307ed5ffa') in 0.002424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.864272 seconds.
+  path: Packages/com.unity.visualeffectgraph/Shaders/Sort.compute
+  artifactKey: Guid(ea257ca3cfb12a642a5025e612af6b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Shaders/Sort.compute using Guid(ea257ca3cfb12a642a5025e612af6b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2be417e3b0b99aed7301e2c3f711b7b4') in 0.004473 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Packages/com.unity.visualeffectgraph/Shaders/VFXCopyBuffer.compute
+  artifactKey: Guid(23c51f21a3503f6428b527b01f8a2f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Shaders/VFXCopyBuffer.compute using Guid(23c51f21a3503f6428b527b01f8a2f4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d9131c7ec61612de13de5c6d77dfb7') in 0.056311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Packages/com.unity.visualeffectgraph/Shaders/VFXMeshSampling.hlsl
+  artifactKey: Guid(444a3fd2755f954428b7fa248d0ba6d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Shaders/VFXMeshSampling.hlsl using Guid(444a3fd2755f954428b7fa248d0ba6d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e8c49abeb3b9f5f7d3fc2f30c09ced5') in 0.049528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Packages/com.unity.visualeffectgraph/Shaders/VFXNoise.hlsl
+  artifactKey: Guid(896072fdf73308c4dbd19cfb6a117b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Shaders/VFXNoise.hlsl using Guid(896072fdf73308c4dbd19cfb6a117b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7cda35ba8462557ce3ca770a910ebfc') in 0.012295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Packages/com.unity.visualeffectgraph/Shaders/VFXCommon.hlsl
+  artifactKey: Guid(6dd1cb6278f06f44cbf13012dd50f7fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Shaders/VFXCommon.hlsl using Guid(6dd1cb6278f06f44cbf13012dd50f7fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75f92508d7d4dc762d1dfa3c09bc75e7') in 0.012089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Packages/com.unity.visualeffectgraph/Shaders/VFXCommonOutput.hlsl
+  artifactKey: Guid(933c4efc089fff24d9582debd1507756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Shaders/VFXCommonOutput.hlsl using Guid(933c4efc089fff24d9582debd1507756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8af1d83699f99d06576d7fe44b89fd4') in 0.021617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Packages/com.unity.visualeffectgraph/Shaders/UpdateStrips.compute
+  artifactKey: Guid(8fa6c4009fe2a4d4486c62736fc30ad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Shaders/UpdateStrips.compute using Guid(8fa6c4009fe2a4d4486c62736fc30ad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cf29d2f5dd60cbe6c72a7da0e839bd2') in 0.004670 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Packages/com.unity.visualeffectgraph/Shaders/VFXParticleStripCommon.hlsl
+  artifactKey: Guid(04a2e61b1178ef3478b6e9bb0bcef3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Shaders/VFXParticleStripCommon.hlsl using Guid(04a2e61b1178ef3478b6e9bb0bcef3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '315d5221cdb84c952c52bd63586497bd') in 0.030580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Packages/com.unity.visualeffectgraph/Shaders/VFXBoundsReduction.hlsl
+  artifactKey: Guid(965d0b8d9a2e4ad48882abc12cb3571d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Shaders/VFXBoundsReduction.hlsl using Guid(965d0b8d9a2e4ad48882abc12cb3571d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14056e45e6693c3fad1836e620cf29d7') in 0.014291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Packages/com.unity.visualeffectgraph/Shaders/VFXFillIndirectArgs.compute
+  artifactKey: Guid(84a17cfa13e40ae4082ef42714f0a81c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Shaders/VFXFillIndirectArgs.compute using Guid(84a17cfa13e40ae4082ef42714f0a81c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30720a6bd78f7e6c7aa6c873cc71b6b5') in 0.004668 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Packages/com.unity.visualeffectgraph/Shaders/VFXMatricesOverride.hlsl
+  artifactKey: Guid(d484a27022e2acf41aeb3ed4aad8674a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.visualeffectgraph/Shaders/VFXMatricesOverride.hlsl using Guid(d484a27022e2acf41aeb3ed4aad8674a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8baa5c90f40e669108360ee5dbd3abf') in 0.022958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.614523 seconds.
+  path: Assets/Visual Effects
+  artifactKey: Guid(32b39d09eeeb2116691e1d9365a732f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual Effects using Guid(32b39d09eeeb2116691e1d9365a732f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4633081dc93f4fbf2b92fd1260d0ff0') in 0.019436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.058571 seconds.
+  path: Assets/Visual Effects/Sun Effect.vfx
+  artifactKey: Guid(4c32f1a5ef8129310b16729f765cd922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Visual Effects/Sun Effect.vfx using Guid(4c32f1a5ef8129310b16729f765cd922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2511b946ea8ed52e2ae6d1178c5d1b26') in 0.007937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1485.776441 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(f29a191a4bcf4c181a2f61210df8a441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(f29a191a4bcf4c181a2f61210df8a441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee9477ceddb7db0cbb5b3d74a82dd2c7') in 0.042389 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.650071 seconds.
+  path: Assets/Prefabs/SUN.prefab
+  artifactKey: Guid(e03fb5e6f2de63d73996cdeff3e75396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SUN.prefab using Guid(e03fb5e6f2de63d73996cdeff3e75396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fa2efed1fe4ad0c407ff0931fca2c9a') in 3.011427 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.149056 seconds.
+  path: Assets/Prefabs/Sun ImageTarget.prefab
+  artifactKey: Guid(446c771286df24c4889783630bf28fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Sun ImageTarget.prefab using Guid(446c771286df24c4889783630bf28fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30fbcb82017001c0396f4baa3e11a358') in 0.125478 seconds 
+                                                                     

@@ -1,0 +1,1446 @@
+Unity Editor version:    2021.3.11f1 (0a5ca18544bf)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+System name:             Linux
+Distro version:          #58-Ubuntu SMP Thu Oct 13 08:03:55 UTC 2022
+Kernel version:          5.15.0-52-generic
+Architecture:            x86_64
+Available memory:        3827 MB
+Using pre-set license
+Pro License: YES
+
+(Unity:12346): Gdk-CRITICAL **: 20:33:25.615: gdk_window_get_cursor: assertion 'GDK_IS_WINDOW (window)' failed
+Desktop is 1366 x 768 @ 60 Hz
+Initialize udev device monitor.
+
+COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker8
+-projectPath
+/home/faranbutt789/ARBOOK Project
+-logFile
+Logs/AssetImportWorker8.log
+-srvPort
+42383
+Successfully changed project path to: /home/faranbutt789/ARBOOK Project
+/home/faranbutt789/ARBOOK Project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 897.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.11f1 (0a5ca18544bf)
+[Subsystems] Discovering subsystems at path /home/faranbutt789/Unity/Hub/Editor/2021.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/faranbutt789/ARBOOK Project/Assets
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_no_config_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_video_sync 
+Renderer: Mesa Intel(R) HD Graphics 4400 (HSW GT2)
+Vendor:   Intel
+Version:  4.6 (Core Profile) Mesa 22.0.5
+GLES:     0
+ GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_draw_buffers_blend GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buf
+fers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buf
+fer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotro
+pic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_ins
+tanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control
+ GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle -479237520
+Initialize mono
+Mono path[0] = '/home/faranbutt789/Unity/Hub/Editor/2021.3.11f1/Editor/Data/Managed'
+Mono path[1] = '/home/faranbutt789/Unity/Hub/Editor/2021.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux'
+Mono config path = '/home/faranbutt789/Unity/Hub/Editor/2021.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56346
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/faranbutt789/Unity/Hub/Editor/2021.3.11f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /home/faranbutt789/Unity/Hub/Editor/2021.3.11f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.057970 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 823.07 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.722 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4725ms)
+		BeginReloadAssembly (291ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (4ms)
+		EndReloadAssembly (3535ms)
+			LoadAssemblies (285ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (862ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (202ms)
+			SetupLoadedEditorAssemblies (2127ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (304ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (823ms)
+				BeforeProcessingInitializeOnLoad (9ms)
+				ProcessInitializeOnLoadAttributes (698ms)
+				ProcessInitializeOnLoadMethodAttributes (289ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.050981 seconds.
+Android Extension - Scanning For ADB Devices 8342 ms
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /home/faranbutt789/ARBOOK Project/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image /home/faranbutt789/ARBOOK Project/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Native extension for LinuxStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 625.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at VuforiaEnabledObserver..cctor () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:130)
+
+(Filename: /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 130)
+
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.NullReferenceException: Object reference not set to an instance of an object
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetVuforiaPackageAbsPath () [0x0004a] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.IsPackageManager () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.ResolvePluginType () [0x00009] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.ExtensionTypeProvider.GetPluginType () [0x0000c] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.VuforiaUtilities.IsVuforiaEnabledInPlayerSettings () [0x00000] in <94027d582a674310a19cbc0223b86958>:0 
+  at Vuforia.EditorClasses.InitializeOnLoadVuforiaTaskRunner..cctor () [0x00015] in <94027d582a674310a19cbc0223b86958>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /home/bokken/buildslave/unity/build/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs:130)
+
+(Filename: /home/bokken/buildslave/unity/build/Editor/Mono/EditorAssemblies.cs Line: 130)
+
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Mono: successfully reloaded assembly
+- Completed reload, in 10.562 seconds
+Domain Reload Profiling:
+	ReloadAssembly (10566ms)
+		BeginReloadAssembly (487ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (34ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (1ms)
+			CreateAndSetChildDomain (111ms)
+		EndReloadAssembly (9479ms)
+			LoadAssemblies (322ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1764ms)
+			ReleaseScriptCaches (20ms)
+			RebuildScriptCaches (487ms)
+			SetupLoadedEditorAssemblies (6473ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (71ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (626ms)
+				BeforeProcessingInitializeOnLoad (773ms)
+				ProcessInitializeOnLoadAttributes (3739ms)
+				ProcessInitializeOnLoadMethodAttributes (1229ms)
+				AfterProcessingInitializeOnLoad (31ms)
+				EditorAssembliesLoaded (2ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (22ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler after 0.83 seconds
+Refreshing native plugins compatible for Editor in 5.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6197 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 95 unused Assets / (1.4 MB). Loaded Objects now: 6959.
+Memory consumption went from 211.2 MB to 209.8 MB.
+Total: 39.310520 ms (FindLiveObjects: 2.117055 ms CreateObjectMapping: 4.750253 ms MarkObjects: 28.918680 ms  DeleteObjects: 3.516438 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 7014.014111 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIEnumHistory.prefab
+  artifactKey: Guid(b2da6b27df236b144b3516ed8e7d36ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIEnumHistory.prefab using Guid(b2da6b27df236b144b3516ed8e7d36ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6de7af1dbd5c608d370a7bce86ba6780') in 0.429785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Thin.ttf
+  artifactKey: Guid(19a9abb883540be48b75b951a927ae03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Thin.ttf using Guid(19a9abb883540be48b75b951a927ae03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7b8f54b9bf0e16dc837eb7cc64383cc') in 1.192782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Resources/DebugUIPersistentCanvas.prefab
+  artifactKey: Guid(f6b1a0fe75d5009449cf55ae76220e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Resources/DebugUIPersistentCanvas.prefab using Guid(f6b1a0fe75d5009449cf55ae76220e2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf878b81021d3cd2ff1f3548d232bbf2') in 0.101490 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIGroup.prefab
+  artifactKey: Guid(38a07789c9e87004dad98c2909f58369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIGroup.prefab using Guid(38a07789c9e87004dad98c2909f58369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e7dd2ecbdadf46f011a4bd5e0f3ec67') in 0.067938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Resources/DebugUICanvas.prefab
+  artifactKey: Guid(cf6cbdd672089a84796e55a21fed1cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Resources/DebugUICanvas.prefab using Guid(cf6cbdd672089a84796e55a21fed1cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ee275441a24018ce615ec496aa523f3') in 0.756066 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BlackItalic.ttf
+  artifactKey: Guid(f95147a9bab9fe649b8070170fa7ebd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BlackItalic.ttf using Guid(f95147a9bab9fe649b8070170fa7ebd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51f248190fb2fcefbf2a8becf8574cc1') in 0.129188 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIVector3.prefab
+  artifactKey: Guid(94afea5f242d72547979595ba963f335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIVector3.prefab using Guid(94afea5f242d72547979595ba963f335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb4f8bfff3c9e4cdf69a2084ef54e948') in 0.034664 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIMessageBox.prefab
+  artifactKey: Guid(10a25524b0986f9488b430e2829bbbe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIMessageBox.prefab using Guid(10a25524b0986f9488b430e2829bbbe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '565234c46bc04df7ba1f2f2248cbe994') in 0.022839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIRow.prefab
+  artifactKey: Guid(2d019437ff89b8d44949727731cd9357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIRow.prefab using Guid(2d019437ff89b8d44949727731cd9357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8f24f42260a524e5b708e45484ea7a8') in 0.025659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIToggleHistory.prefab
+  artifactKey: Guid(5088d0220f0c4df439cf06c5c270eacb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIToggleHistory.prefab using Guid(5088d0220f0c4df439cf06c5c270eacb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '371e58cf99d4e2f45035eb5d12b60f9c') in 0.059783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-MediumItalic.ttf
+  artifactKey: Guid(d93c1bc57fdf1ac4dad1bf04fac05464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-MediumItalic.ttf using Guid(d93c1bc57fdf1ac4dad1bf04fac05464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e5e481a3546d330ccf8c09d196d757a') in 0.122764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIHBox.prefab
+  artifactKey: Guid(f7f5e36797cf0c1408561665c67b179b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIHBox.prefab using Guid(f7f5e36797cf0c1408561665c67b179b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4638ae13c1e341a9f2b8a943b97a48b') in 0.035878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIFoldout.prefab
+  artifactKey: Guid(1c87ab2ce8b8b304d98fbe9a734b1f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIFoldout.prefab using Guid(1c87ab2ce8b8b304d98fbe9a734b1f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de4df9de4b5bf15768dde63430ed845') in 0.034668 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Bold.ttf
+  artifactKey: Guid(3750c318f40cab44a97d3a81beaefeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Bold.ttf using Guid(3750c318f40cab44a97d3a81beaefeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b75e623f38a2bf8d53962ef42d97648') in 0.203599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIToggle.prefab
+  artifactKey: Guid(ce347ad101f41ee4ab5c3fbc0ea447db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIToggle.prefab using Guid(ce347ad101f41ee4ab5c3fbc0ea447db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e23cc6f22ad2018200ab1cac5e96de') in 0.037010 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIPanel.prefab
+  artifactKey: Guid(daa46a58178a6ad41ae1ddc2dc7f856d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIPanel.prefab using Guid(daa46a58178a6ad41ae1ddc2dc7f856d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f457e3d09ddae14505070942357de4fb') in 0.065765 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIFloatField.prefab
+  artifactKey: Guid(d8c744701b43c864b88e7f8144e19bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIFloatField.prefab using Guid(d8c744701b43c864b88e7f8144e19bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb2a5469cd1e0795084c5c877ad443c2') in 0.029181 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Italic.ttf
+  artifactKey: Guid(c839255fc8f6b4b4d90bf8c1af9f9bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Italic.ttf using Guid(c839255fc8f6b4b4d90bf8c1af9f9bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e35e56663a835da1a262bb809715f69b') in 0.248650 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIColor.prefab
+  artifactKey: Guid(77c185820dd1a464eac89cae3abccddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIColor.prefab using Guid(77c185820dd1a464eac89cae3abccddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d190ba2575c3be9379df5044d8b916d') in 0.056908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-ThinItalic.ttf
+  artifactKey: Guid(b2ea3b3f1765e544b9eb5bd1a93a91ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-ThinItalic.ttf using Guid(b2ea3b3f1765e544b9eb5bd1a93a91ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20e01ef7f54e9e87558452195341973c') in 0.250711 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIUIntField.prefab
+  artifactKey: Guid(f22bcc84a5f4a1944b075a2c4ac71493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIUIntField.prefab using Guid(f22bcc84a5f4a1944b075a2c4ac71493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68232cd91b2693b75a917b942e581cc3') in 0.023455 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Black.ttf
+  artifactKey: Guid(1062c701058745940ae5dca6219c64c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Black.ttf using Guid(1062c701058745940ae5dca6219c64c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee0eeb47fd61f332d37d15d20d11eb7d') in 0.203986 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIValue.prefab
+  artifactKey: Guid(dc0f88987826e6e48b1fe9c7c2b53a53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIValue.prefab using Guid(dc0f88987826e6e48b1fe9c7c2b53a53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dab753e009fdb67f40625b633af7fb5b') in 0.022175 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIButton.prefab
+  artifactKey: Guid(f6ce33b91f6ffe54cadacbf4bb112440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIButton.prefab using Guid(f6ce33b91f6ffe54cadacbf4bb112440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b99bf732dba07042aa340122085e1a09') in 0.026386 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIIntField.prefab
+  artifactKey: Guid(ae00bb75e0cd5b04b8fe7fb4ab662629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIIntField.prefab using Guid(ae00bb75e0cd5b04b8fe7fb4ab662629) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6febb8b5df5ed8ce7d66892334fd540') in 0.035358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIVector4.prefab
+  artifactKey: Guid(d47f009476100f545971a81ede14c750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIVector4.prefab using Guid(d47f009476100f545971a81ede14c750) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd79501558bc6ca857a627b9dad2c943') in 0.055202 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Regular.ttf
+  artifactKey: Guid(30dc370b164eefc43b95744fc796dad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Regular.ttf using Guid(30dc370b164eefc43b95744fc796dad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70b22a3d9832a07c556327a0d3c20a45') in 0.224926 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIEnumField.prefab
+  artifactKey: Guid(988db55689193434fb0b3b89538f978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIEnumField.prefab using Guid(988db55689193434fb0b3b89538f978f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e6d1e65c03399926292ae151b6f2981') in 0.020822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Packages/com.unity.ugui/package.json
+  artifactKey: Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ugui/package.json using Guid(319b8889f363f5947acf209c17a94149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1002360e272cf591a214daa5cb5c75f8') in 0.016109 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIBitField.prefab
+  artifactKey: Guid(7c78b588b2e1f7c4a86ca4a985cf6e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIBitField.prefab using Guid(7c78b588b2e1f7c4a86ca4a985cf6e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7620c03d040b2de463afe0172af93af') in 0.059748 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIVector2.prefab
+  artifactKey: Guid(326f7c58aed965d41bf7805a782d1e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIVector2.prefab using Guid(326f7c58aed965d41bf7805a782d1e44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dab157b0c37a0374bbc946e0f492b5c9') in 0.050469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIVBox.prefab
+  artifactKey: Guid(ca3e294656861a64b8aeeb9f916da0a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Widgets/DebugUIVBox.prefab using Guid(ca3e294656861a64b8aeeb9f916da0a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0175f531d6954dc5879a0ee2ac7f01c9') in 0.039544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Medium.ttf
+  artifactKey: Guid(a51a3aebb43ac044989270407476b208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Medium.ttf using Guid(a51a3aebb43ac044989270407476b208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46682079face997b7761f7b709257e2d') in 0.175090 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Fonts/PerfectDOSVGA437.ttf
+  artifactKey: Guid(74a5091d8707f334b9a5c31ef71a64ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Fonts/PerfectDOSVGA437.ttf using Guid(74a5091d8707f334b9a5c31ef71a64ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdfcece323d826e9ad169c13896f5be1') in 0.248773 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Light.ttf
+  artifactKey: Guid(2a29e27936eb547458f646f71125b264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Light.ttf using Guid(2a29e27936eb547458f646f71125b264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '255c5875e84fa2da3a654515df0c97f8') in 0.256674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BoldItalic.ttf
+  artifactKey: Guid(dfb97a9307a577a41bcacba34b9a7e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BoldItalic.ttf using Guid(dfb97a9307a577a41bcacba34b9a7e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d00b7c967d66cddb41595dfd3272c8') in 0.208282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-LightItalic.ttf
+  artifactKey: Guid(5e63515167650a541b309ba3bfd4db3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-LightItalic.ttf using Guid(5e63515167650a541b309ba3bfd4db3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91c3e20d7dc6ff2ee9a64f7beddec6e5') in 0.274303 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 81.946235 seconds.
+  path: Assets/Prefabs/Particle System.prefab
+  artifactKey: Guid(2ddf7e498c6b682d6899cbc5bd3a77cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Particle System.prefab using Guid(2ddf7e498c6b682d6899cbc5bd3a77cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6688c4ae0f4f158eb63dcdbe399e276') in 0.142529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.344546 seconds.
+  path: Assets/Prefabs/Sun.prefab
+  artifactKey: Guid(e03fb5e6f2de63d73996cdeff3e75396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Sun.prefab using Guid(e03fb5e6f2de63d73996cdeff3e75396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a482e41167a08eab8b462327fe071ab8') in 0.244332 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 331.636077 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia
+  artifactKey: Guid(9cc7219dd8ba923418d1b45d8600186b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia using Guid(9cc7219dd8ba923418d1b45d8600186b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c89aa2b05402bd8aada10731181a082b') in 0.026486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.947737 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Prefabs
+  artifactKey: Guid(fff2b2647734bdb4ca674be90110de4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Prefabs using Guid(fff2b2647734bdb4ca674be90110de4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a3c884b97ac7199b2baff2de9a11fa5') in 0.002128 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.295198 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Scripts/VuforiaScripts.asmdef
+  artifactKey: Guid(4aa734a563557450591d3fe58a62a120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Scripts/VuforiaScripts.asmdef using Guid(4aa734a563557450591d3fe58a62a120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8afc59c5261bafc559d057b5b0cfd10b') in 0.036013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.192486 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Sprites/clean_storage_disabled_icon.png
+  artifactKey: Guid(78ae00a5ca21c47aebb62921bfb70210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Sprites/clean_storage_disabled_icon.png using Guid(78ae00a5ca21c47aebb62921bfb70210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c21ff957524a44dc45fb4178247e5a71') in 0.369473 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Sprites/record_icon.png
+  artifactKey: Guid(ab4add1f75b2349b9938b3e39253fc09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Sprites/record_icon.png using Guid(ab4add1f75b2349b9938b3e39253fc09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13d1f8afd19ffa53ce7e6a1ab9c2a61a') in 0.227852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Sprites/Pause.png
+  artifactKey: Guid(fae1201f99eb1493680b33ed006cc866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Sprites/Pause.png using Guid(fae1201f99eb1493680b33ed006cc866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2abf5664d82fc0c86907eb2fb2c6da0') in 0.167799 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Sprites/Stop.png
+  artifactKey: Guid(983928a99ab82481c8d3fbca6ad46020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Sprites/Stop.png using Guid(983928a99ab82481c8d3fbca6ad46020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a1835c926109da6d4aeea94d0ce2af') in 0.155803 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Textures/MidAirReference.png
+  artifactKey: Guid(e21dffdcc7917472c9827aa5e2387fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Textures/MidAirReference.png using Guid(e21dffdcc7917472c9827aa5e2387fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18290c163fb21f753b8c2f0c61630bc2') in 0.499312 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Textures/CloudRecoTarget.png
+  artifactKey: Guid(f6153ed43853e4449924f1322300f084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Textures/CloudRecoTarget.png using Guid(f6153ed43853e4449924f1322300f084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9191e4ad47edd3e791478f3ed683eb9d') in 0.108884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Sprites/Share.png
+  artifactKey: Guid(8f4fa365158394a799c09ebb2ff7d6b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Sprites/Share.png using Guid(8f4fa365158394a799c09ebb2ff7d6b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b2bb1c5f06e388c85912dc795882389') in 0.093959 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Sprites/Create.png
+  artifactKey: Guid(27757be88b4cc428384db8f30801ab0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Sprites/Create.png using Guid(27757be88b4cc428384db8f30801ab0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4be1374bb2832d250e9d08c80c23376') in 0.191798 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Sprites/clean_storage_pressed_icon.png
+  artifactKey: Guid(f19ffa5b1cfba46e5aee7af994478d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Sprites/clean_storage_pressed_icon.png using Guid(f19ffa5b1cfba46e5aee7af994478d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f44d6e27610dbc1ab04f441d183efed7') in 0.140817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Sprites/clean_storage_icon.png
+  artifactKey: Guid(a6ce5ff7606724d3ea80eed2f888a6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Sprites/clean_storage_icon.png using Guid(a6ce5ff7606724d3ea80eed2f888a6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99af361af9e913a670485e82d13823ea') in 0.128360 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Sprites/stop_record_icon.png
+  artifactKey: Guid(19e91bdeab61f45539cbccbcdfb6ce38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Sprites/stop_record_icon.png using Guid(19e91bdeab61f45539cbccbcdfb6ce38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20ae0cd48ca56f12f379576c68bf6ed0') in 0.142200 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Textures/VirtualButtonPreview.png
+  artifactKey: Guid(dd8287d41aafb4b4bacd7e0ebf634a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Textures/VirtualButtonPreview.png using Guid(dd8287d41aafb4b4bacd7e0ebf634a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e04c10ab3079f1a9463dcc457abcac4b') in 0.118187 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Sprites/Resume.png
+  artifactKey: Guid(1fe060738749d4de99b521bdf379f61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Sprites/Resume.png using Guid(1fe060738749d4de99b521bdf379f61a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dc6e4534ed8f7976e6d08e4c55e73ba') in 0.186238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Textures/GroundPlaneReference.png
+  artifactKey: Guid(5f131b079790d4251836bc73b812b53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Textures/GroundPlaneReference.png using Guid(5f131b079790d4251836bc73b812b53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '288a15f5f7ea2519beb59ed2c8e1b42f') in 0.624519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Textures/Reticle.png
+  artifactKey: Guid(1e424f48fda62483aa0c9eec616e0cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Textures/Reticle.png using Guid(1e424f48fda62483aa0c9eec616e0cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d312ef58a2815cd208ac2035df39297') in 0.428636 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Packages/com.ptc.vuforia.engine/Vuforia/Textures/VideoBackground.png
+  artifactKey: Guid(d46decd9d3bbf0d46b31a3d4ae0f18ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.ptc.vuforia.engine/Vuforia/Textures/VideoBackground.png using Guid(d46decd9d3bbf0d46b31a3d4ae0f18ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd51436c77a518de5cecdbdc897060bb') in 0.153759 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2871.843580 seconds.
+  path: Assets/RomanCityPack1Lite/Models
+  artifactKey: Guid(e9f367c5627fe4d2ebce4201f299ea8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models using Guid(e9f367c5627fe4d2ebce4201f299ea8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c6b53ca17aeb5e383828b00fa07b043') in 0.088359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.176890 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman
+  artifactKey: Guid(d1536df5b712b40309e41203f4cea402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman using Guid(d1536df5b712b40309e41203f4cea402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f29807415ba3164b5451eef94b2f2be') in 0.022457 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_wall_4.fbx
+  artifactKey: Guid(dddcce01598a643e9a2460ef2988ed00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_wall_4.fbx using Guid(dddcce01598a643e9a2460ef2988ed00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7d68bea45b864552fd197392478fa28') in 4.791577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_tree_cyprus_med.fbx
+  artifactKey: Guid(f642cca86002942e88f866611a97b804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_tree_cyprus_med.fbx using Guid(f642cca86002942e88f866611a97b804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53089aad716b4898c16d8bc38cf5323a') in 0.266298 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_roof_tile_square.fbx
+  artifactKey: Guid(8dd85d51a24524301a6d16064da432b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_roof_tile_square.fbx using Guid(8dd85d51a24524301a6d16064da432b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bda82789d89b9fb966f33770df08f88') in 0.200768 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_canopy_hanging.fbx
+  artifactKey: Guid(79bb5397c261e405ea5f400bd610413d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_canopy_hanging.fbx using Guid(79bb5397c261e405ea5f400bd610413d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f23a0b4478bb2c2a6d892b7f18fb40a0') in 0.964266 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_pot_1.fbx
+  artifactKey: Guid(cf7cab27be8414bb9991cbf39d70010d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_pot_1.fbx using Guid(cf7cab27be8414bb9991cbf39d70010d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27d6c3bad1fc296a94eb07bc91246252') in 0.173153 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_crate_closed.fbx
+  artifactKey: Guid(9b96afa254f2348d295bad12b30354fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_crate_closed.fbx using Guid(9b96afa254f2348d295bad12b30354fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f4b6083c8217f54e3687a2ab2c1673') in 0.260738 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_window_shutters_1_offset.fbx
+  artifactKey: Guid(67b2544fdb20c4a42966c07ab23ecdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_window_shutters_1_offset.fbx using Guid(67b2544fdb20c4a42966c07ab23ecdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0811c21eb43168e033bb4deb04196479') in 0.724312 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_wall_door_4.fbx
+  artifactKey: Guid(d13f1242581a34a9291736512b799c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_wall_door_4.fbx using Guid(d13f1242581a34a9291736512b799c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efdd8d7c1ca347653cf94f613a7d7ed0') in 0.151033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_pot_2.fbx
+  artifactKey: Guid(e28a8cc2a48c140619d81360c6538b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_pot_2.fbx using Guid(e28a8cc2a48c140619d81360c6538b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a55be827626a44da1336742ac44d0b51') in 0.141197 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_roof_tile_slanted.fbx
+  artifactKey: Guid(0a35492648dd748e9a866f193ee5757d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_roof_tile_slanted.fbx using Guid(0a35492648dd748e9a866f193ee5757d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28d83ea3e71ef908e26287179c56d281') in 0.126702 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_wall_column_3.fbx
+  artifactKey: Guid(999c10c074d0c4f2bbe39c220fec15b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_wall_column_3.fbx using Guid(999c10c074d0c4f2bbe39c220fec15b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '919227e5cab2144dec2989ab503ad29e') in 0.140133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_fence_wood_2.fbx
+  artifactKey: Guid(346b983670773419eab7bbc00eaa94da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_fence_wood_2.fbx using Guid(346b983670773419eab7bbc00eaa94da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '594aba6ba60e165cd3e6ad4613bf559e') in 0.157846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_door_2.fbx
+  artifactKey: Guid(2f8c9a556c643413587e1ea8a5ebd708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_door_2.fbx using Guid(2f8c9a556c643413587e1ea8a5ebd708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '674db5b28ffb23756723c3a8571bc8b2') in 0.180402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_column_short.fbx
+  artifactKey: Guid(d32078c4f23434270b4ce778bb886ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_column_short.fbx using Guid(d32078c4f23434270b4ce778bb886ac9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a8fdb8fbb2c3b219668fa528dc21df4') in 0.265591 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_tree_cyprus_short.fbx
+  artifactKey: Guid(7fa7f3ae87c3347ed913e1efe0469d16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_tree_cyprus_short.fbx using Guid(7fa7f3ae87c3347ed913e1efe0469d16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3203d562a8f5caf9ebdfee85a5cc9808') in 0.191645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_wall_corner.fbx
+  artifactKey: Guid(1d25b80ea092a443a8259c7c710922b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_wall_corner.fbx using Guid(1d25b80ea092a443a8259c7c710922b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '304a2b601b1b49f6790b407f6338b92d') in 0.117454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_barrel.fbx
+  artifactKey: Guid(f8db3b2832e06422e9a28014b01183b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_barrel.fbx using Guid(f8db3b2832e06422e9a28014b01183b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '286624423d2213b31ed2732a1d71c5b7') in 0.182666 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_wall_window_4.fbx
+  artifactKey: Guid(fcdd7de33059348d0ac4342e85a7d5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_wall_window_4.fbx using Guid(fcdd7de33059348d0ac4342e85a7d5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24702c8951507ed86a46788e398c6d3d') in 0.125280 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_floor_3.fbx
+  artifactKey: Guid(a757fb789363a464693e99a60aefe0b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_floor_3.fbx using Guid(a757fb789363a464693e99a60aefe0b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a6dcd2c7cd3df91efaccc00bbb1da3') in 0.211395 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_floor_1.fbx
+  artifactKey: Guid(9a6e1271052bf45778b865a6cc6812fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_floor_1.fbx using Guid(9a6e1271052bf45778b865a6cc6812fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63b82a0f168e2dd13ec18ea8fa30b574') in 0.160809 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/roman_window_shutters_1.fbx
+  artifactKey: Guid(2996789a4b18143b0a3ae2aee84e319c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/roman_window_shutters_1.fbx using Guid(2996789a4b18143b0a3ae2aee84e319c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863438ed41ebbb1874db5ad0609d9198') in 0.284145 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.237946 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models
+  artifactKey: Guid(141777d25b211494c8e804a0324b22e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models using Guid(141777d25b211494c8e804a0324b22e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4318cc199f8d12459a8b52f4e130dea') in 0.002024 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.479531 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_barrel.prefab
+  artifactKey: Guid(7251092cbdec54aa9b430480a68a5817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_barrel.prefab using Guid(7251092cbdec54aa9b430480a68a5817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee1abd1610da51b3f29b0e8b0a340d00') in 0.094089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_column_short.prefab
+  artifactKey: Guid(f0820f42100e44a09b590b26a06f7db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_column_short.prefab using Guid(f0820f42100e44a09b590b26a06f7db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0810d326ed3fd81445d4b9dfc0975ece') in 0.055739 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_door_4.prefab
+  artifactKey: Guid(be044c286f8114ab491aedaab01115f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_door_4.prefab using Guid(be044c286f8114ab491aedaab01115f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ca0d5f00392babe97b417326a93dafc') in 0.086531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_column_3.prefab
+  artifactKey: Guid(86a4946b6bc974b1bad58a9f14118239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_column_3.prefab using Guid(86a4946b6bc974b1bad58a9f14118239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43447c35b5d1528609a7affd55ce1c5c') in 0.059807 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_tree_cyprus_med.prefab
+  artifactKey: Guid(1e4ec8d503fa249b98f781ace1f67161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_tree_cyprus_med.prefab using Guid(1e4ec8d503fa249b98f781ace1f67161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e17f1608fabb2c6e2ab8c6f2414b2f8') in 0.067893 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_window_4.prefab
+  artifactKey: Guid(2666c16adc2af4763bd571e89891c1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_window_4.prefab using Guid(2666c16adc2af4763bd571e89891c1a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0f2d9ff4839558c16da7fafdc73cfa9') in 0.076502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_floor_3.prefab
+  artifactKey: Guid(745ee72cb7ee542b7b31ff060e87d3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_floor_3.prefab using Guid(745ee72cb7ee542b7b31ff060e87d3a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7559015baad6cfc35b2c5e7fbd7ad21d') in 0.073194 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_column_tall.prefab
+  artifactKey: Guid(a1b929db7fade4d70bb4ac665348bee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_column_tall.prefab using Guid(a1b929db7fade4d70bb4ac665348bee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f16b5c15cd770e519829219729dd2180') in 0.055856 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_roof_tile_slanted.prefab
+  artifactKey: Guid(7e9b59192a4e64576b1fe0b66a3134be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_roof_tile_slanted.prefab using Guid(7e9b59192a4e64576b1fe0b66a3134be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71e99bf014a6106759d31bacce648889') in 0.052852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_pot_1.prefab
+  artifactKey: Guid(f6fd3b73e18ad42b0ba16ab79e69a071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_pot_1.prefab using Guid(f6fd3b73e18ad42b0ba16ab79e69a071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aadcaa6ef2726b8279fd90c1e308cf6a') in 0.069055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_window_shutters_1.prefab
+  artifactKey: Guid(85feb69a6165b49b9abf7e2dfa7f3674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_window_shutters_1.prefab using Guid(85feb69a6165b49b9abf7e2dfa7f3674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0f587b6c3c68b013cec15659078e27a') in 0.049753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_window_shutters_1_offset.prefab
+  artifactKey: Guid(2b834276ddd1347b8a174e37c48dfc99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_window_shutters_1_offset.prefab using Guid(2b834276ddd1347b8a174e37c48dfc99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '908b99b7e614754573693bce1ed08d9c') in 0.071604 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_tree_cyprus_short.prefab
+  artifactKey: Guid(859c39be62a7446838192618b6e1deb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_tree_cyprus_short.prefab using Guid(859c39be62a7446838192618b6e1deb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f9fdabf5fc1a420b70d09863bdb205c') in 0.060317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_canopy_hanging.prefab
+  artifactKey: Guid(fa68d033c32664f66a08580f7ed0cc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_canopy_hanging.prefab using Guid(fa68d033c32664f66a08580f7ed0cc64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c7737b7a66f84b9addfd9652f65bf89') in 0.059996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_floor_1.prefab
+  artifactKey: Guid(9f33a6e3519754757b16ad7fc0602956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_floor_1.prefab using Guid(9f33a6e3519754757b16ad7fc0602956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94a7a7b093f1f056b3bbc1fd9abe4d23') in 0.045989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_fence_wood_2.prefab
+  artifactKey: Guid(a84f9954490aa4c1598cb2defc199a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_fence_wood_2.prefab using Guid(a84f9954490aa4c1598cb2defc199a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef4cb1e611cca26374e253899f076ae4') in 0.055249 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_pot_2.prefab
+  artifactKey: Guid(87a39bb14ca78405caef446ecff157a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_pot_2.prefab using Guid(87a39bb14ca78405caef446ecff157a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '191c6913369d95769fbf56df217093f4') in 0.044558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_4.prefab
+  artifactKey: Guid(dbc0bdea48cb7491886dc0a0c690ed6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_4.prefab using Guid(dbc0bdea48cb7491886dc0a0c690ed6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0943e62b7e33a34f9a740c8d0f01c8c') in 0.043096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_corner.prefab
+  artifactKey: Guid(432e56ebce53a4c5cb62ed392d89739f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_wall_corner.prefab using Guid(432e56ebce53a4c5cb62ed392d89739f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c614f46be832678f918bf1fcf78f9b47') in 0.048516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_door_2.prefab
+  artifactKey: Guid(52e01b3efb68d4378a4bf0e956dea77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_door_2.prefab using Guid(52e01b3efb68d4378a4bf0e956dea77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0772baa1881a4899b6d8d11326161914') in 0.067943 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized
+  artifactKey: Guid(0a2f2a96b66f34e2d9857f1bfe7258da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized using Guid(0a2f2a96b66f34e2d9857f1bfe7258da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6480b11e1897cac900dec929cef8a52a') in 0.016056 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_roof_tile_square.prefab
+  artifactKey: Guid(9b30bf7bb77c348958e4711eec8fcc03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_roof_tile_square.prefab using Guid(9b30bf7bb77c348958e4711eec8fcc03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c949779d03d598f3d8eb7935bb0b55ca') in 0.048657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_crate_closed.prefab
+  artifactKey: Guid(efb76ba89794a422788a3b1a77a120d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Optimized/roman_crate_closed.prefab using Guid(efb76ba89794a422788a3b1a77a120d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '442cef7493c53490ee84b53877426ded') in 0.077872 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.759733 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials
+  artifactKey: Guid(bbb3188497b154fd0862526fe97b91f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials using Guid(bbb3188497b154fd0862526fe97b91f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f849977be4ccbfcfa312a5512fbeaf69') in 0.017317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003355 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Bronze.mat
+  artifactKey: Guid(b26700a469fbc440fb9ab395aa8940e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Bronze.mat using Guid(b26700a469fbc440fb9ab395aa8940e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf187b342185ce45ef39144b132162c0') in 1.029885 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Helmet_Gold.mat
+  artifactKey: Guid(14c34e69c9e904408a0c2e9fe5cdd7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Helmet_Gold.mat using Guid(14c34e69c9e904408a0c2e9fe5cdd7ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb0446754a18529cdfd9950979a30dbc') in 0.048192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Helmet_Feather.mat
+  artifactKey: Guid(e1672146ac76841e3b6a8eae6f15c104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Helmet_Feather.mat using Guid(e1672146ac76841e3b6a8eae6f15c104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd84503f4604480e098dec0196e3ab170') in 0.079170 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Stone.mat
+  artifactKey: Guid(989ec08de98a4410eb801c5936c5925a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Stone.mat using Guid(989ec08de98a4410eb801c5936c5925a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34d754ff41935a816b9d3a943ac5735a') in 0.103884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Tree_1.mat
+  artifactKey: Guid(4cfbb3165ed714cd788b7eb1fcfc3899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Tree_1.mat using Guid(4cfbb3165ed714cd788b7eb1fcfc3899) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9256002bfc8f589cebff0327b8e4947') in 0.034007 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Silver.mat
+  artifactKey: Guid(7dcfc293529324baa8d2926977b73b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Silver.mat using Guid(7dcfc293529324baa8d2926977b73b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e0852040d7bcb81dcfe90c452e5bc4e') in 0.073924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Shield_Detail.mat
+  artifactKey: Guid(699ffeb7a51c147558699fb25a930228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Shield_Detail.mat using Guid(699ffeb7a51c147558699fb25a930228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '878d3dd9b7e429e6ef50ab4339e4178f') in 0.069152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Dirt.mat
+  artifactKey: Guid(ca0346ec313b74155932ed6b655bf35f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Dirt.mat using Guid(ca0346ec313b74155932ed6b655bf35f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6fc7751bef0b0fc0b2c90a7a753704a') in 0.041923 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Roof_1.mat
+  artifactKey: Guid(a56f71238a05c4475bbbf0ce0e80e0c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Roof_1.mat using Guid(a56f71238a05c4475bbbf0ce0e80e0c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac462455eed1e230143517d596866ffb') in 0.040937 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Tree_Wood.mat
+  artifactKey: Guid(d5dd911c183b04d75b9089f6a3b47128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Tree_Wood.mat using Guid(d5dd911c183b04d75b9089f6a3b47128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe1ceb758c3531ac79bacc83cc9e86d6') in 0.120267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Helmet_Silver.mat
+  artifactKey: Guid(dd6df887158174189bcfc9ff22e46154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Helmet_Silver.mat using Guid(dd6df887158174189bcfc9ff22e46154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f907a38df29036f0506897c86d6e9c6f') in 0.124504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Canvas2.mat
+  artifactKey: Guid(be570cde3c39843c0aaed288d99a5ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Canvas2.mat using Guid(be570cde3c39843c0aaed288d99a5ab6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2c0208c8987bb0bd2f5c60edea44472') in 0.034466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneAccent2.mat
+  artifactKey: Guid(d88057aa139674e808e8fb8488077697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneAccent2.mat using Guid(d88057aa139674e808e8fb8488077697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '203f8f14aab7e93e6457f5945adb0cc5') in 0.174851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Tree_3.mat
+  artifactKey: Guid(04ce9ea98c3254122a2446aa1ba9aa98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Tree_3.mat using Guid(04ce9ea98c3254122a2446aa1ba9aa98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35fe783530c53f5b3a9297cd44d8075c') in 0.043566 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Grip.mat
+  artifactKey: Guid(aa8ab2261e7c24c1699ff0d6d0535e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Grip.mat using Guid(aa8ab2261e7c24c1699ff0d6d0535e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f3f2e888b744b3a2cf35b704d5541b4') in 0.078418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Standard_Gold.mat
+  artifactKey: Guid(e332ab6b2a3fd439aa6713fd318a9fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Standard_Gold.mat using Guid(e332ab6b2a3fd439aa6713fd318a9fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e3ce0328740186f99f726afd4c068f5') in 0.039478 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneFloor1.mat
+  artifactKey: Guid(e940f3f10cf1d4f549a403cb74137914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneFloor1.mat using Guid(e940f3f10cf1d4f549a403cb74137914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e36903bb53ee3aae596052bd8b92377e') in 0.042106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Roof_3.mat
+  artifactKey: Guid(a2e6e20f5fda94ed8a4d63b688de747b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Roof_3.mat using Guid(a2e6e20f5fda94ed8a4d63b688de747b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59c6f0a804b647c7757460c71febf70a') in 0.044878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Tree_2.mat
+  artifactKey: Guid(cd65f869c1e8449729555a5ef6834dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Tree_2.mat using Guid(cd65f869c1e8449729555a5ef6834dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60814b092a2fe9f79f7e72fe71bc1da7') in 0.053601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Clay.mat
+  artifactKey: Guid(8197ee08c6dca49caabb2e860ced7eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Clay.mat using Guid(8197ee08c6dca49caabb2e860ced7eb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5309fbf9844e1e4f1056aab69aff7711') in 0.044223 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Iron.mat
+  artifactKey: Guid(bc5d62ddde89c426eb45c7064e5c8822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Iron.mat using Guid(bc5d62ddde89c426eb45c7064e5c8822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd3d8b2302fc16c2793249ddd35a6c7d') in 0.154506 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Leather.mat
+  artifactKey: Guid(ee36f81635f5241989d9640abfc875d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Leather.mat using Guid(ee36f81635f5241989d9640abfc875d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f0d9bc5b78e3e5b14ef2f35031a59ca') in 0.074602 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneFloor2.mat
+  artifactKey: Guid(e6a99abb4678d4b4096929ee8599d62b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneFloor2.mat using Guid(e6a99abb4678d4b4096929ee8599d62b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29e4cc0c7a3ec4637ea8ff6c495a825f') in 0.030032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Iron.001.mat
+  artifactKey: Guid(9cc9a3e3db183404186323e776e0384d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Iron.001.mat using Guid(9cc9a3e3db183404186323e776e0384d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b46c5517c11d785a6a747e8ffe8e7e59') in 0.028585 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Shield_Base.mat
+  artifactKey: Guid(d1538a6ebe976405da13a539ae6b1b92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Shield_Base.mat using Guid(d1538a6ebe976405da13a539ae6b1b92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae543c58515fe0dc91db31cb7015893') in 0.070184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Roof_2.mat
+  artifactKey: Guid(42ea1f36539a34bbe9ef783bae131bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Roof_2.mat using Guid(42ea1f36539a34bbe9ef783bae131bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '225a94ba52be765bd16de0b6707ef116') in 0.136698 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Canvas.mat
+  artifactKey: Guid(490c233e685124994ae1f445dca7fba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Canvas.mat using Guid(490c233e685124994ae1f445dca7fba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b66482293a12aa6d412e9d2a069ed9') in 0.115567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Mast.mat
+  artifactKey: Guid(ac4d9c316c08d475ebb7937d7fc3d61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Mast.mat using Guid(ac4d9c316c08d475ebb7937d7fc3d61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75caf17fa3be25814684c966ba7ebf61') in 0.046434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Combined.mat
+  artifactKey: Guid(6c4a1c5a1928847198c3296136951f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Roman_Combined.mat using Guid(6c4a1c5a1928847198c3296136951f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63860afb7b72cce926bdb65b5f4d6ead') in 0.100558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneFloor3.mat
+  artifactKey: Guid(b4243c95ba7ae4217bda6ac105a09231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneFloor3.mat using Guid(b4243c95ba7ae4217bda6ac105a09231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccd6d32b882bd0e78e17160f0ab8851f') in 0.258329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneAccent.mat
+  artifactKey: Guid(ef03dfe87f8584912abcf4b8405b57a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/StoneAccent.mat using Guid(ef03dfe87f8584912abcf4b8405b57a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '149b393cf40e42c028cefac9aebbefd5') in 0.059827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.329460 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_barrel.fbx
+  artifactKey: Guid(34151078546704b5ca217404a68d7399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_barrel.fbx using Guid(34151078546704b5ca217404a68d7399) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '558e7197cd23926ef5db75f2cfe3f64b') in 0.117703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_window_shutters_1_offset.fbx
+  artifactKey: Guid(991f3192fd74641ddbd6b062433e37fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_window_shutters_1_offset.fbx using Guid(991f3192fd74641ddbd6b062433e37fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2d243680fb834b6703a43d7c41497bb') in 0.222590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_pot_1.fbx
+  artifactKey: Guid(c9851a01e3e2145dba928568af4977ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_pot_1.fbx using Guid(c9851a01e3e2145dba928568af4977ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1830fc9a7384af5ba568da9ca6d63de8') in 0.079366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_crate_closed.fbx
+  artifactKey: Guid(b4f625366f7334e868444f2e62fc8f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_crate_closed.fbx using Guid(b4f625366f7334e868444f2e62fc8f72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '315b09ae89cb4fd70ae4312ce369e215') in 0.078931 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_pot_2.fbx
+  artifactKey: Guid(dc6b835c9b1824a918ba6ff1085d3a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_pot_2.fbx using Guid(dc6b835c9b1824a918ba6ff1085d3a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cca84a9b2793a8a15309f06b8a8f4db') in 0.081648 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_canopy_hanging.fbx
+  artifactKey: Guid(fe32c8ff874bc4d5183c900493315a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_canopy_hanging.fbx using Guid(fe32c8ff874bc4d5183c900493315a54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa8aa242143c2f575e80e6eff7305a21') in 0.205077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_4.fbx
+  artifactKey: Guid(c4f9b5420a3004926ab0e8186ee43daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_4.fbx using Guid(c4f9b5420a3004926ab0e8186ee43daf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99aba0b6e2946c454f0ebb05b9b53648') in 0.077831 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_floor_1.fbx
+  artifactKey: Guid(297546ac818534107be6e9500c5ce720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_floor_1.fbx using Guid(297546ac818534107be6e9500c5ce720) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '976ddadd00170ab87cf2dd22d90de966') in 0.099421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_door_4.fbx
+  artifactKey: Guid(b677f6504070e42c2801b43b01604705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_door_4.fbx using Guid(b677f6504070e42c2801b43b01604705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '651773166bf713d2edf6e28f4bf15666') in 0.094871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_window_4.fbx
+  artifactKey: Guid(f570a44260cf04795b042782f476671b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_window_4.fbx using Guid(f570a44260cf04795b042782f476671b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90f8ee47aa3b82de82e143c9f1c2da2d') in 0.137888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_corner.fbx
+  artifactKey: Guid(43b1b6c15e6b84cdaa2347eeefa6cfa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_corner.fbx using Guid(43b1b6c15e6b84cdaa2347eeefa6cfa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed087c53969be88a7a6df64338fa5a0f') in 0.141708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_tree_cyprus_med.fbx
+  artifactKey: Guid(7540670d170174548befdb2fba64ae74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_tree_cyprus_med.fbx using Guid(7540670d170174548befdb2fba64ae74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9dea1da380ccced4d8a41e1de92d02d') in 0.108464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_door_2.fbx
+  artifactKey: Guid(be59616bfc57a40b197746461c3700fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_door_2.fbx using Guid(be59616bfc57a40b197746461c3700fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a258cfee2bc98b1317ee20a1a7f41930') in 0.110985 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_floor_3.fbx
+  artifactKey: Guid(73711748d0cb34b96a1cc1b97001668d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_floor_3.fbx using Guid(73711748d0cb34b96a1cc1b97001668d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fb308ce101dd2b9de48fced04482bc2') in 0.082370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_roof_tile_slanted.fbx
+  artifactKey: Guid(72692a82fa8b9421bb370b8728e725e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_roof_tile_slanted.fbx using Guid(72692a82fa8b9421bb370b8728e725e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6767867d5786025b3fadfc018bf1fd9') in 0.109784 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/Materials/No Name.mat
+  artifactKey: Guid(c1bf7e071bf624114aaefa78375a0ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/Materials/No Name.mat using Guid(c1bf7e071bf624114aaefa78375a0ce3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ee283e88a21bae1576347209888ba53') in 0.059307 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_roof_tile_square.fbx
+  artifactKey: Guid(31ec4efc3b57e471389dba2e971c5c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_roof_tile_square.fbx using Guid(31ec4efc3b57e471389dba2e971c5c57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b820262b785a999f5af171e7427cf5') in 0.127925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_column_3.fbx
+  artifactKey: Guid(466988aeaa1b046d88dc94f7d07e34d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_wall_column_3.fbx using Guid(466988aeaa1b046d88dc94f7d07e34d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9037b8bf390cca6b62dffa1311b809c3') in 0.118418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_window_shutters_1.fbx
+  artifactKey: Guid(397ff0630227c4ae2845b179da962d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_window_shutters_1.fbx using Guid(397ff0630227c4ae2845b179da962d7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c44d11bf2a5b8fe2d63cbad9faca82d') in 0.264021 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_tree_cyprus_short.fbx
+  artifactKey: Guid(41fef8225a2344ed58944b7b19501f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_tree_cyprus_short.fbx using Guid(41fef8225a2344ed58944b7b19501f90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f81e955a6e07f0857fe1e575f77fc81') in 0.165277 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_column_tall.fbx
+  artifactKey: Guid(5259c0cb8e35843168780ff0fce3010c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_column_tall.fbx using Guid(5259c0cb8e35843168780ff0fce3010c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0d46986c4135299df12430524d1745b') in 0.138050 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_fence_wood_2.fbx
+  artifactKey: Guid(11bcf6133cb134f678654b5c2cce0b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_fence_wood_2.fbx using Guid(11bcf6133cb134f678654b5c2cce0b19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82176625479e26b435fbb10c674b6b50') in 0.133266 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_column_short.fbx
+  artifactKey: Guid(151338a2b346e4eb3b3f23fa05ccaab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/roman_column_short.fbx using Guid(151338a2b346e4eb3b3f23fa05ccaab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5432db20cc4aa9b65e99433921ca9f77') in 0.105851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/Materials
+  artifactKey: Guid(961d0d89c6a3f49209a2c3888ee6dfcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/Materials using Guid(961d0d89c6a3f49209a2c3888ee6dfcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a33db7558527978ca54ef256155d4b1b') in 0.002423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.113118 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/Textures
+  artifactKey: Guid(3a4b2db980ed54ea2999672fb268c6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/Textures using Guid(3a4b2db980ed54ea2999672fb268c6aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8295fa8ca4a34f3ef2a30bc161e6b5b') in 0.013583 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Optimized/Textures/Roman_Combined.png
+  artifactKey: Guid(77cc6f0a4bbc84c55889f43e4c325e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Optimized/Textures/Roman_Combined.png using Guid(77cc6f0a4bbc84c55889f43e4c325e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35e5fb9e255bbab31b5dceb5bac275e1') in 0.072080 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.091829 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Buildings/House.prefab
+  artifactKey: Guid(acc641cb5641340d28bed1190e6b55aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Buildings/House.prefab using Guid(acc641cb5641340d28bed1190e6b55aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c25d4a5481d46dfbc3e167f006ca9b3b') in 0.647611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 295.108607 seconds.
+  path: Assets/RomanCityPack1Lite/Materials/Terrain.mat
+  artifactKey: Guid(38418e69fbd3846889de928271a57360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Materials/Terrain.mat using Guid(38418e69fbd3846889de928271a57360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e482d5dcea85a56b8852cf95033d54') in 3.670488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 44.080388 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Buildings
+  artifactKey: Guid(8f31a2bb21e4c4c91818980ec94029bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Buildings using Guid(8f31a2bb21e4c4c91818980ec94029bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2370f98363b0358f72f7d2535438146e') in 0.079301 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.314023 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_barrel.prefab
+  artifactKey: Guid(62bf106055dc84816a25edbee246a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_barrel.prefab using Guid(62bf106055dc84816a25edbee246a82e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0388eca9e27cb360cbd5323060aded72') in 0.059480 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_canopy_hanging.prefab
+  artifactKey: Guid(e11c2430b30054406b7006f0679e2111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_canopy_hanging.prefab using Guid(e11c2430b30054406b7006f0679e2111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8c68fed93cbf69224e943ccec4d047a') in 0.058461 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_column_short.prefab
+  artifactKey: Guid(c8a3ce87580174f67a7bc5247513c6e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_column_short.prefab using Guid(c8a3ce87580174f67a7bc5247513c6e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4eb4331dbececcfee728783fa595666') in 0.044915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_floor_3.prefab
+  artifactKey: Guid(aa6a619d27cf848ac8e30fc02e7c4251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_floor_3.prefab using Guid(aa6a619d27cf848ac8e30fc02e7c4251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f56be2c39c30dc9dd5d2435bd966e8ff') in 0.052201 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_roof_tile_square.prefab
+  artifactKey: Guid(01d39d768686345878847aeeced0774e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_roof_tile_square.prefab using Guid(01d39d768686345878847aeeced0774e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '301714023cc573f9c849460fb9431d0d') in 0.057303 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_fence_wood_2.prefab
+  artifactKey: Guid(5b88b0a9e6bde4198b925d46b451415c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_fence_wood_2.prefab using Guid(5b88b0a9e6bde4198b925d46b451415c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b988e3508f3480297e21c7755bbfdd01') in 0.056226 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_window_shutters_1.prefab
+  artifactKey: Guid(b21c71e17d3bf499886071f98fa8cdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_window_shutters_1.prefab using Guid(b21c71e17d3bf499886071f98fa8cdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab761cc2ee3e0ab1f210d0a78435f36e') in 0.054196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_pot_2.prefab
+  artifactKey: Guid(d1c164fd13ef64492819d4a5863da470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_pot_2.prefab using Guid(d1c164fd13ef64492819d4a5863da470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29eadd07f29366afacf5d7c4c6d72999') in 0.049231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_tree_cyprus_med.prefab
+  artifactKey: Guid(b10f92723ce1a4235a0fbf75bd9becde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_tree_cyprus_med.prefab using Guid(b10f92723ce1a4235a0fbf75bd9becde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69d000bad8475c9d89ed2e19feb085dd') in 0.048320 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_column_3.prefab
+  artifactKey: Guid(6af80645ec08e4f57a4846d75f5c6699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_column_3.prefab using Guid(6af80645ec08e4f57a4846d75f5c6699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92d720113baddcbb1a97e64ebef102aa') in 0.064881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_roof_tile_slanted.prefab
+  artifactKey: Guid(03c9713f8e0d1446dacfb9fb49bb35c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_roof_tile_slanted.prefab using Guid(03c9713f8e0d1446dacfb9fb49bb35c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '996282dd0790ff57da8d3dfbb1f49f01') in 0.056064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_crate_closed.prefab
+  artifactKey: Guid(e55e6ebd16b4744258afdde51a1ec75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_crate_closed.prefab using Guid(e55e6ebd16b4744258afdde51a1ec75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19b57cc4f2350295032c571f1149e3da') in 0.044856 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_door_4.prefab
+  artifactKey: Guid(cbd58ef2e18564d4fa450f0a1501d919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_door_4.prefab using Guid(cbd58ef2e18564d4fa450f0a1501d919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04f45de946ddc9de0aa6ea2905ae892d') in 0.058494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_door_2.prefab
+  artifactKey: Guid(0f9e068e8adba47849b5ce91feffd809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_door_2.prefab using Guid(0f9e068e8adba47849b5ce91feffd809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2c0b0098d100409ddae1d4dbd4f32f8') in 0.045573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_pot_1.prefab
+  artifactKey: Guid(2fc015c50966f481699a0e9299eaa6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_pot_1.prefab using Guid(2fc015c50966f481699a0e9299eaa6c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa75ee3b593dad3d5187dc703bd60630') in 0.052724 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_window_shutters_1_offset.prefab
+  artifactKey: Guid(e4d13985206974ef19b4c967ea92733e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_window_shutters_1_offset.prefab using Guid(e4d13985206974ef19b4c967ea92733e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fc667919c376cfca0e6a6b2140808a8') in 0.045504 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_corner.prefab
+  artifactKey: Guid(62c0de286656140a7a3a5eeb4d713c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_corner.prefab using Guid(62c0de286656140a7a3a5eeb4d713c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1817c9f60b04fdcea40b523ddcf2a2b8') in 0.045341 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_window_4.prefab
+  artifactKey: Guid(faaa2fb407dfa4d6f8d24f6663f4b1bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_window_4.prefab using Guid(faaa2fb407dfa4d6f8d24f6663f4b1bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbedd724496f037c7135780a77fb4c2c') in 0.057907 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_floor_1.prefab
+  artifactKey: Guid(b7b94536b73c84616bb2b03b5b1b9509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_floor_1.prefab using Guid(b7b94536b73c84616bb2b03b5b1b9509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7197dd0f1495f1bf5d62062f3c883a00') in 0.048820 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_tree_cyprus_short.prefab
+  artifactKey: Guid(02258bcb813d74c56a1c1f0e7bec1f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_tree_cyprus_short.prefab using Guid(02258bcb813d74c56a1c1f0e7bec1f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6760940cc26a82422066f138b4334927') in 0.053514 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_4.prefab
+  artifactKey: Guid(b9994732149834c74a40636207d2457e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Prefabs/Models/Standard/roman_wall_4.prefab using Guid(b9994732149834c74a40636207d2457e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f5adf3782e9085a848d1ad0b67d2982') in 0.057672 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.979455 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/TileFloor1.mat
+  artifactKey: Guid(24324b837c1674232ac3ddfd79fda341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/TileFloor1.mat using Guid(24324b837c1674232ac3ddfd79fda341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc6249d6e5b355be4ec74fe0887db46a') in 0.048921 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood3.mat
+  artifactKey: Guid(55f1e3510e09d4a409ef80f2979e7e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood3.mat using Guid(55f1e3510e09d4a409ef80f2979e7e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5846f4946f1f6f743d2fdef3f9caa71') in 0.038538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Water.mat
+  artifactKey: Guid(272ba4a09e02c4424b1fa56aa009f13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Water.mat using Guid(272ba4a09e02c4424b1fa56aa009f13f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf37b2c051e5eceaea27fcb0be0821b1') in 0.451683 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood2.mat
+  artifactKey: Guid(c3219821e129b4c2cba97608dd43ae7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood2.mat using Guid(c3219821e129b4c2cba97608dd43ae7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d20340ccadfa834b6b5415d6fa49895') in 0.060331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood4.mat
+  artifactKey: Guid(673288bcc0f0f4af382f6aeb2f7a0a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood4.mat using Guid(673288bcc0f0f4af382f6aeb2f7a0a9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef8c65496e6f30e64dc5cec52277ff33') in 0.040663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/TileFloor2.mat
+  artifactKey: Guid(fb073922d7d9f42e9aabaa30a19c229a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/TileFloor2.mat using Guid(fb073922d7d9f42e9aabaa30a19c229a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4248d2b467e24feefca12065753043ab') in 0.039993 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood.mat
+  artifactKey: Guid(e8bc1f419791c4d92b3126b8fe49b1cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood.mat using Guid(e8bc1f419791c4d92b3126b8fe49b1cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2bcb9e22176dff87587c2c790ba508d') in 0.100616 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood5.mat
+  artifactKey: Guid(7c585135ecd8f4e328e250a211fcf74c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RomanCityPack1Lite/Models/Roman/Materials/Wood5.mat using Guid(7c585135ecd8f4e328e250a211fcf74c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2157586e78b800cd436083921527b5f6') in 0.043870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1353.068788 seconds.
+  path: Packages/com.unity.xr.arcore/package.json
+  artifactKey: Guid(96d3d50e9dd0d654c90f6f35bb673559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arcore/package.json using Guid(96d3d50e9dd0d654c90f6f35bb673559) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c110421b56cc2250910277c7cc83b403') in 0.056747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1166.323954 seconds.
+  path: Assets/fonts
+  artifactKey: Guid(459886620e1a9f78caacbc3acf36fd17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/fonts using Guid(459886620e1a9f78caacbc3acf36fd17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179368c792cd49e83b3f13eee39c87a8') in 0.190687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 64.794005 seconds.
+  path: Assets/fonts/Bangers-Regular.ttf
+  artifactKey: Guid(d04d091ff068b21128a37129b4ff3d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/fonts/Bangers-Regular.ttf using Guid(d04d091ff068b21128a37129b4ff3d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4c63a13d19bb5228ad07bce38d50e7') in 2.309498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 468.902954 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4052fca2b8b71332aac8523494053b23') in 11.011019 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f17555a47b01dab734942d3e9accc5') in 0.129366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 241.091529 seconds.
+  path: Assets/fonts/Bangers-Regular SDF.asset
+  artifactKey: Guid(c9faa64454f1b988a81adf9204510025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/fonts/Bangers-Regular SDF.asset using Guid(c9faa64454f1b988a81adf9204510025) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+ -> (artifact id: 'd594f28e813b140b1bc116d0085715d4') in 1.042210 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 317.451641 seconds.
+  path: Assets/fonts/Bangers-Regular SDF.asset
+  artifactKey: Guid(c9faa64454f1b988a81adf9204510025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/fonts/Bangers-Regular SDF.asset using Guid(c9faa64454f1b988a81adf9204510025) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+ -> (artifact id: '0cd1891a1120011e46b15642697ec5e1') in 0.212539 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1238.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 98 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 95 unused Assets / (1.4 MB). Loaded Objects now: 7023.
+Memory consumption went from 89.2 MB to 87.8 MB.
+Total: 15350.453367 ms (FindLiveObjects: 2.051478 ms CreateObjectMapping: 1.838542 ms MarkObjects: 15255.337870 ms  DeleteObjects: 91.198238 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
